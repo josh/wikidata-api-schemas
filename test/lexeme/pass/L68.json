@@ -1,0 +1,28 @@
+{
+  "type": "lexeme",
+  "id": "L68",
+  "lemmas": {
+    "fa": { "language": "fa", "value": "\u062c\u0627\u0646\u0627\u0646" }
+  },
+  "lexicalCategory": "Q34698",
+  "language": "Q9168",
+  "claims": {},
+  "forms": {},
+  "senses": [
+    {
+      "id": "L68-S1",
+      "glosses": {
+        "fa": {
+          "language": "fa",
+          "value": "\u0645\u0639\u0634\u0648\u0642\u060c \u0645\u062d\u0628\u0648\u0628"
+        }
+      },
+      "claims": []
+    }
+  ],
+  "pageid": 54387656,
+  "ns": 146,
+  "title": "Lexeme:L68",
+  "lastrevid": 1804327696,
+  "modified": "2023-01-06T02:45:33Z"
+}

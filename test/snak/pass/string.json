@@ -1,0 +1,9 @@
+{
+  "snaktype": "value",
+  "property": "P356",
+  "datatype": "string",
+  "datavalue": {
+    "value": "SomePicture.jpg",
+    "type": "string"
+  }
+}

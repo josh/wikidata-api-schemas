@@ -1,0 +1,291 @@
+{
+  "entities": {
+    "L9": {
+      "pageid": 54387147,
+      "ns": 146,
+      "title": "Lexeme:L9",
+      "lastrevid": 1902626745,
+      "modified": "2023-05-25T17:24:54Z",
+      "type": "lexeme",
+      "id": "L9",
+      "lemmas": { "en": { "language": "en", "value": "create" } },
+      "lexicalCategory": "Q24905",
+      "language": "Q1860",
+      "claims": {
+        "P5831": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5831",
+              "hash": "3a14dcf048afc187c432f994a21c32d39b563cf6",
+              "datavalue": {
+                "value": {
+                  "text": "She creates artwork, to sell.",
+                  "language": "en"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P5830": [
+                {
+                  "snaktype": "value",
+                  "property": "P5830",
+                  "hash": "9ff2cc8e32804edf1cbc77ef877e0ccfb670b594",
+                  "datavalue": {
+                    "value": { "entity-type": "form", "id": "L9-F1" },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-form"
+                }
+              ]
+            },
+            "qualifiers-order": ["P5830"],
+            "id": "L9$ed422e09-44b2-7c15-47f6-efdd7a4dd853",
+            "rank": "normal"
+          }
+        ],
+        "P5191": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5191",
+              "hash": "715d37e5933b23311fd8223f72f368c05c3d6e74",
+              "datavalue": {
+                "value": {
+                  "entity-type": "lexeme",
+                  "numeric-id": 268592,
+                  "id": "L268592"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-lexeme"
+            },
+            "type": "statement",
+            "id": "L9$bcbd7e19-4dc2-d8f4-de54-46440074f175",
+            "rank": "normal"
+          }
+        ],
+        "P5275": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5275",
+              "hash": "8c44297f86354069143dec13b3f4c6f6e44d0cc9",
+              "datavalue": { "value": "44061", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "L9$5C5AF37A-7CF5-4D4B-82AE-FB09D3A4D3B3",
+            "rank": "normal"
+          }
+        ]
+      },
+      "forms": [
+        {
+          "id": "L9-F1",
+          "representations": { "en": { "language": "en", "value": "creates" } },
+          "grammaticalFeatures": ["Q110786", "Q3910936", "Q51929074"],
+          "claims": {}
+        },
+        {
+          "id": "L9-F2",
+          "representations": { "en": { "language": "en", "value": "created" } },
+          "grammaticalFeatures": ["Q1392475"],
+          "claims": {
+            "P443": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P443",
+                  "hash": "e9261650415a2a8ec3f59d582b6183732eef186e",
+                  "datavalue": {
+                    "value": "En-us-created.ogg",
+                    "type": "string"
+                  },
+                  "datatype": "commonsMedia"
+                },
+                "type": "statement",
+                "id": "L9-F2$5538a029-4701-0368-7e91-50ecd9f5c2b6",
+                "rank": "normal"
+              }
+            ]
+          }
+        },
+        {
+          "id": "L9-F3",
+          "representations": {
+            "en": { "language": "en", "value": "creating" }
+          },
+          "grammaticalFeatures": ["Q10345583"],
+          "claims": {
+            "P443": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P443",
+                  "hash": "0bbd35457ad59899e3c4c33c4d1139b327232cb3",
+                  "datavalue": {
+                    "value": "En-us-creating.ogg",
+                    "type": "string"
+                  },
+                  "datatype": "commonsMedia"
+                },
+                "type": "statement",
+                "id": "L9-F3$ed5a3baa-44fa-ee7a-2056-30ff0b4a30a3",
+                "rank": "normal"
+              }
+            ]
+          }
+        },
+        {
+          "id": "L9-F4",
+          "representations": { "en": { "language": "en", "value": "created" } },
+          "grammaticalFeatures": ["Q1230649"],
+          "claims": {}
+        },
+        {
+          "id": "L9-F5",
+          "representations": { "en": { "language": "en", "value": "create" } },
+          "grammaticalFeatures": ["Q3910936"],
+          "claims": {
+            "P443": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P443",
+                  "hash": "bd2f4afaeaf23999c52f4b87e9d243a6b2dc4658",
+                  "datavalue": {
+                    "value": "En-us-create.ogg",
+                    "type": "string"
+                  },
+                  "datatype": "commonsMedia"
+                },
+                "type": "statement",
+                "id": "L9-F5$7872cdc0-4dfe-6652-c3cf-33ee033aed85",
+                "rank": "normal"
+              }
+            ]
+          }
+        }
+      ],
+      "senses": [
+        {
+          "id": "L9-S1",
+          "glosses": {
+            "en": {
+              "language": "en",
+              "value": "make something new from other elements"
+            },
+            "de": {
+              "language": "de",
+              "value": "etwas Neues aus Bestehendem erschaffen"
+            },
+            "fr": {
+              "language": "fr",
+              "value": "fabriquer quelquechose \u00e0 partir d'autre \u00e9l\u00e9ments"
+            },
+            "es": {
+              "language": "es",
+              "value": "hacer algo nuevo o de otras cosas"
+            },
+            "th": {
+              "language": "th",
+              "value": "\u0e2a\u0e23\u0e49\u0e32\u0e07"
+            },
+            "it": { "language": "it", "value": "creare" }
+          },
+          "claims": {
+            "P5972": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P5972",
+                  "hash": "ffefab27c6951ce0ace886ee5ad4aa7132500f37",
+                  "datavalue": {
+                    "value": { "entity-type": "sense", "id": "L230703-S1" },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-sense"
+                },
+                "type": "statement",
+                "id": "L9-S1$1b26282c-426b-d63b-9194-654b86ff1629",
+                "rank": "normal"
+              }
+            ]
+          }
+        },
+        {
+          "id": "L9-S2",
+          "glosses": {
+            "en": { "language": "en", "value": "bring into existence" },
+            "fr": { "language": "fr", "value": "mener \u00e0 l'existence" },
+            "de": { "language": "de", "value": "erzeugen" },
+            "th": {
+              "language": "th",
+              "value": "\u0e19\u0e33\u0e44\u0e1b\u0e2a\u0e39\u0e48\u0e0b\u0e36\u0e48\u0e07\u0e01\u0e32\u0e23\u0e14\u0e33\u0e23\u0e07\u0e2d\u0e22\u0e39\u0e48"
+            }
+          },
+          "claims": {
+            "P11774": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P11774",
+                  "hash": "32b461ca7ff1c06020ac9efe9db11c02ea54eb1b",
+                  "datavalue": { "value": "11320", "type": "string" },
+                  "datatype": "external-id"
+                },
+                "type": "statement",
+                "id": "L9-S2$6f8ff693-4b8e-4842-d639-84eda39d68d6",
+                "rank": "normal"
+              }
+            ]
+          }
+        },
+        {
+          "id": "L9-S3",
+          "glosses": {
+            "en": { "language": "en", "value": "make; cause to become" },
+            "th": { "language": "th", "value": "\u0e17\u0e33" }
+          },
+          "claims": {
+            "P5973": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P5973",
+                  "hash": "d7cda36ec24204cfa543270aaf3344a8bd5553a7",
+                  "datavalue": {
+                    "value": { "entity-type": "sense", "id": "L3036-S4" },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-sense"
+                },
+                "type": "statement",
+                "id": "L9-S3$5db22788-4db7-d9eb-4278-4ca396cfbdbf",
+                "rank": "normal"
+              }
+            ]
+          }
+        },
+        {
+          "id": "L9-S4",
+          "glosses": {
+            "en": {
+              "language": "en",
+              "value": "create or manufacture a man-made product"
+            },
+            "fr": {
+              "language": "fr",
+              "value": "cr\u00e9er ou fabriquer un produit de main humaine"
+            }
+          },
+          "claims": {}
+        }
+      ]
+    }
+  }
+}

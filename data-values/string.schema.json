@@ -1,0 +1,27 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/data-values/string.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "String Value",
+  "description": "Chain of characters, numbers and symbols that don't need to be translated into different languages or number formats.",
+  "$comment": "https://www.wikidata.org/wiki/Help:Data_type#string",
+  "type": "object",
+  "properties": {
+    "type": { "type": "string", "const": "string" },
+    "value": { "type": "string", "minLength": 0, "maxLength": 1500 }
+  },
+  "required": ["type", "value"],
+  "additionalProperties": false,
+  "examples": [
+    { "value": "Sandbox with toys on Röe gård 1.jpg", "type": "string" },
+    { "value": "12345", "type": "string" },
+    { "value": "Data:Neighbourhoods/New York City.map", "type": "string" },
+    { "value": "a^2 + b^2 = c^2", "type": "string" },
+    {
+      "value": "\\relative c' { c d e f | g2 g | a4 a a a | g1 |}",
+      "type": "string"
+    },
+    { "value": "Hello world!", "type": "string" },
+    { "value": "Data:Sandbox/TheDJ/DJ.tab", "type": "string" },
+    { "value": "http://example.com/", "type": "string" }
+  ]
+}

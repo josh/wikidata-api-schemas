@@ -1,0 +1,9 @@
+{
+  "value": {
+    "amount": "+123",
+    "upperBound": "+133",
+    "lowerBound": "+113",
+    "unit": "1"
+  },
+  "type": "quantity"
+}

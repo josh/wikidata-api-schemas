@@ -1,0 +1,229 @@
+{
+  "entities": {
+    "L4": {
+      "pageid": 54387040,
+      "ns": 146,
+      "title": "Lexeme:L4",
+      "lastrevid": 1818218882,
+      "modified": "2023-01-24T07:16:40Z",
+      "type": "lexeme",
+      "id": "L4",
+      "lemmas": { "en": { "language": "en", "value": "windsurf" } },
+      "lexicalCategory": "Q24905",
+      "language": "Q1860",
+      "claims": {
+        "P5238": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5238",
+              "hash": "d8a5b4295ea54bf7307010890e101c68640ce9b9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "lexeme",
+                  "numeric-id": 3324,
+                  "id": "L3324"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-lexeme"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1545": [
+                {
+                  "snaktype": "value",
+                  "property": "P1545",
+                  "hash": "2a1ced1dca90648ea7e306acbadd74fc81a10722",
+                  "datavalue": { "value": "1", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1545"],
+            "id": "L4$faad30b0-421c-803a-c1fd-b9a99a0eb35d",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5238",
+              "hash": "7937a0f804578c8aeaa3342f90de1c4ec6e3c303",
+              "datavalue": {
+                "value": {
+                  "entity-type": "lexeme",
+                  "numeric-id": 18537,
+                  "id": "L18537"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-lexeme"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1545": [
+                {
+                  "snaktype": "value",
+                  "property": "P1545",
+                  "hash": "7241753c62a310cf84895620ea82250dcea65835",
+                  "datavalue": { "value": "2", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1545"],
+            "id": "L4$d15285a1-4880-7a9b-bb1f-85403e1a785a",
+            "rank": "normal"
+          }
+        ],
+        "P5187": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5187",
+              "hash": "554db52b75fc3ca555502fb2b6086730c651b0ce",
+              "datavalue": {
+                "value": { "text": "windsurf", "language": "en" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "L4$d4a63d17-43ea-749d-5860-21b90feb83f7",
+            "rank": "normal"
+          }
+        ],
+        "P5275": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5275",
+              "hash": "72dece3ebab73c03febffa5dd944ea4287137365",
+              "datavalue": { "value": "229291", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "L4$F82C77BF-4D4C-4020-8774-869AFC22C84F",
+            "rank": "normal"
+          }
+        ]
+      },
+      "forms": [
+        {
+          "id": "L4-F1",
+          "representations": {
+            "en": { "language": "en", "value": "windsurfing" }
+          },
+          "grammaticalFeatures": ["Q10345583"],
+          "claims": {}
+        },
+        {
+          "id": "L4-F3",
+          "representations": {
+            "en": { "language": "en", "value": "windsurfs" }
+          },
+          "grammaticalFeatures": ["Q110786", "Q3910936", "Q51929074"],
+          "claims": {}
+        },
+        {
+          "id": "L4-F4",
+          "representations": {
+            "en": { "language": "en", "value": "windsurfed" }
+          },
+          "grammaticalFeatures": ["Q1392475"],
+          "claims": {}
+        },
+        {
+          "id": "L4-F5",
+          "representations": {
+            "en": { "language": "en", "value": "windsurfed" }
+          },
+          "grammaticalFeatures": ["Q1230649"],
+          "claims": {}
+        },
+        {
+          "id": "L4-F6",
+          "representations": {
+            "en": { "language": "en", "value": "windsurf" }
+          },
+          "grammaticalFeatures": ["Q3910936"],
+          "claims": {}
+        }
+      ],
+      "senses": [
+        {
+          "id": "L4-S1",
+          "glosses": {
+            "fr": {
+              "language": "fr",
+              "value": "faire de la planche \u00e0 voile"
+            },
+            "ms": { "language": "ms", "value": "meluncur angin" },
+            "zh": { "language": "zh", "value": "\u6ed1\u6d6a\u98a8\u5e06" },
+            "zh-hant": {
+              "language": "zh-hant",
+              "value": "\u6ed1\u6d6a\u98a8\u5e06"
+            },
+            "zh-tw": {
+              "language": "zh-tw",
+              "value": "\u6ed1\u6d6a\u98a8\u5e06"
+            },
+            "nan": {
+              "language": "nan",
+              "value": "h\u00e1i-\u00edng hong-ph\u00e2ng"
+            },
+            "th": {
+              "language": "th",
+              "value": "\u0e40\u0e25\u0e48\u0e19\u0e27\u0e34\u0e19\u0e14\u0e4c\u0e40\u0e0b\u0e34\u0e23\u0e4c\u0e1f"
+            },
+            "tg": {
+              "language": "tg",
+              "value": "\u0441\u0451\u0440\u0444\u0438\u043d\u0433\u0431\u043e\u0437\u0438\u0438 \u0448\u0430\u043c\u043e\u043b\u04e3"
+            },
+            "fi": { "language": "fi", "value": "purjelautailla" }
+          },
+          "claims": {
+            "P5137": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P5137",
+                  "hash": "75da815808f849d8515d7a15f989b756c8e2efd2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 191051,
+                      "id": "Q191051"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "L4-S1$13e5f498-4deb-ea41-4d60-02c852b88b4c",
+                "rank": "normal"
+              }
+            ],
+            "P5972": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P5972",
+                  "hash": "ccb95ec51e64cc3728e844ccd551166ef883f27e",
+                  "datavalue": {
+                    "value": { "entity-type": "sense", "id": "L144039-S1" },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-sense"
+                },
+                "type": "statement",
+                "id": "L4-S1$7218013F-B84B-40FA-B57B-BC1BA2239BB8",
+                "rank": "normal"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

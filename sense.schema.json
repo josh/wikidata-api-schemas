@@ -1,0 +1,31 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/sense.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sense",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "#/$defs/id" },
+    "glosses": {
+      "title": "Glosses",
+      "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "minProperties": 1
+    },
+    "claims": {
+      "oneOf": [
+        { "type": "array", "const": [], "maxItems": 0 },
+        { "$ref": "./statement.schema.json#/$defs/group" }
+      ]
+    }
+  },
+  "required": ["id", "glosses", "claims"],
+  "additionalProperties": false,
+  "$defs": {
+    "id": {
+      "$anchor": "id",
+      "title": "Sense ID",
+      "type": "string",
+      "minLength": 5,
+      "pattern": "^L[1-9][0-9]*-S[1-9][0-9]*$"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/data-values/wikibase-entityid.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Wikibase Entity ID Value",
+  "description": "Entity IDs are used to reference entities on the same repository.",
+  "$comment": "https://www.wikidata.org/wiki/Help:Data_type#Datatypes_to_link_entities",
+  "type": "object",
+  "properties": {
+    "type": { "type": "string", "const": "wikibase-entityid" },
+    "value": {
+      "oneOf": [
+        { "$ref": "#/$defs/item-id" },
+        { "$ref": "#/$defs/property-id" },
+        { "$ref": "#/$defs/lexeme-id" },
+        { "$ref": "#/$defs/sense-id" },
+        { "$ref": "#/$defs/form-id" }
+      ]
+    }
+  },
+  "required": ["type", "value"],
+  "additionalProperties": false,
+  "$defs": {
+    "item-id": {
+      "$anchor": "item-id",
+      "title": "Wikibase Item ID Value",
+      "type": "object",
+      "properties": {
+        "entity-type": { "type": "string", "const": "item" },
+        "numeric-id": { "type": "integer", "minimum": 1 },
+        "id": { "$ref": "../item.schema.json#/$defs/id" }
+      },
+      "required": ["entity-type", "numeric-id", "id"],
+      "additionalProperties": false
+    },
+    "property-id": {
+      "$anchor": "property-id",
+      "title": "Wikibase Property ID Value",
+      "type": "object",
+      "properties": {
+        "entity-type": { "type": "string", "const": "property" },
+        "numeric-id": { "type": "integer", "minimum": 1 },
+        "id": { "$ref": "../property.schema.json#/$defs/id" }
+      },
+      "required": ["entity-type", "numeric-id", "id"],
+      "additionalProperties": false
+    },
+    "lexeme-id": {
+      "$anchor": "lexeme-id",
+      "title": "Wikibase Lexeme ID Value",
+      "type": "object",
+      "properties": {
+        "entity-type": { "type": "string", "const": "lexeme" },
+        "numeric-id": { "type": "integer", "minimum": 1 },
+        "id": { "$ref": "../lexeme.schema.json#/$defs/id" }
+      },
+      "required": ["entity-type", "numeric-id", "id"],
+      "additionalProperties": false
+    },
+    "sense-id": {
+      "$anchor": "sense-id",
+      "title": "Wikibase Sense ID Value",
+      "type": "object",
+      "properties": {
+        "entity-type": { "type": "string", "const": "sense" },
+        "id": { "$ref": "../sense.schema.json#/$defs/id" }
+      },
+      "required": ["entity-type", "id"],
+      "additionalProperties": false
+    },
+    "form-id": {
+      "$anchor": "form-id",
+      "title": "Wikibase Form ID Value",
+      "type": "object",
+      "properties": {
+        "entity-type": { "type": "string", "const": "form" },
+        "id": { "$ref": "../form.schema.json#/$defs/id" }
+      },
+      "required": ["entity-type", "id"],
+      "additionalProperties": false
+    }
+  },
+  "examples": [
+    {
+      "value": { "id": "L229416-F1", "entity-type": "form" },
+      "type": "wikibase-entityid"
+    },
+    {
+      "value": {
+        "id": "Q4115189",
+        "numeric-id": 4115189,
+        "entity-type": "item"
+      },
+      "type": "wikibase-entityid"
+    },
+    {
+      "value": {
+        "id": "Q21281405",
+        "numeric-id": 21281405,
+        "entity-type": "item"
+      },
+      "type": "wikibase-entityid"
+    },
+    {
+      "value": { "id": "L123", "numeric-id": 123, "entity-type": "lexeme" },
+      "type": "wikibase-entityid"
+    },
+    {
+      "value": { "id": "P2368", "numeric-id": 2368, "entity-type": "property" },
+      "type": "wikibase-entityid"
+    },
+    {
+      "value": { "id": "L229416-S2", "entity-type": "sense" },
+      "type": "wikibase-entityid"
+    }
+  ]
+}

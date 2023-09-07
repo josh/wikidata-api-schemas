@@ -1,0 +1,83 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/entity.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Entity",
+  "type": "object",
+  "oneOf": [
+    { "$ref": "./item.schema.json" },
+    { "$ref": "./property.schema.json" },
+    { "$ref": "./lexeme.schema.json" }
+  ],
+  "$defs": {
+    "type": {
+      "$anchor": "type",
+      "description": "The entity type identifier",
+      "type": "string",
+      "enum": ["item", "property", "lexeme"]
+    },
+    "pageid": {
+      "$anchor": "pageid",
+      "description": "The page id the entity is stored in",
+      "type": "integer",
+      "minimum": 1,
+      "examples": [186]
+    },
+    "ns": {
+      "$anchor": "ns",
+      "description": "The namespace id of the page the entity is stored in",
+      "type": "integer",
+      "minimum": 0
+    },
+    "title": {
+      "$anchor": "title",
+      "description": "The title of the page the entity is stored in",
+      "type": "string",
+      "minLength": 1
+    },
+    "lastrevid": {
+      "$anchor": "lastrevid",
+      "description": "The JSON document's version",
+      "type": "integer",
+      "minimum": 1,
+      "examples": [195301613]
+    },
+    "modified": {
+      "$anchor": "modified",
+      "description": "The JSON document's publication date",
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 20,
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+      "examples": ["2020-02-10T12:42:02Z"]
+    },
+    "labels": {
+      "$anchor": "labels",
+      "description": "Contains the labels in different languages",
+      "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "minProperties": 0
+    },
+    "descriptions": {
+      "$anchor": "descriptions",
+      "description": "Contains the descriptions in different languages",
+      "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "minProperties": 0
+    },
+    "aliases": {
+      "$anchor": "aliases",
+      "description": "Contains aliases in different languages",
+      "$ref": "./multilingual-text-value.schema.json#/$defs/multi-values"
+    },
+    "group": {
+      "$anchor": "group",
+      "title": "Entities",
+      "type": "object",
+      "patternProperties": {
+        "^Q[1-9][0-9]*$": { "$ref": "./item.schema.json" },
+        "^P[1-9][0-9]*$": { "$ref": "./property.schema.json" },
+        "^L[1-9][0-9]*$": { "$ref": "./lexeme.schema.json" }
+      },
+      "minProperties": 1
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/lexeme.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Lexeme",
+  "type": "object",
+  "properties": {
+    "type": {
+      "description": "The entity type identifier",
+      "type": "string",
+      "const": "lexeme"
+    },
+    "pageid": { "$ref": "./entity.schema.json#/$defs/pageid" },
+    "ns": { "$ref": "./entity.schema.json#/$defs/ns", "const": 146 },
+    "title": { "$ref": "./entity.schema.json#/$defs/title" },
+    "lastrevid": { "$ref": "./entity.schema.json#/$defs/lastrevid" },
+    "modified": { "$ref": "./entity.schema.json#/$defs/modified" },
+    "id": { "$ref": "#/$defs/id" },
+    "lemmas": {
+      "title": "Lemmas",
+      "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "minProperties": 1
+    },
+    "lexicalCategory": { "$ref": "./item.schema.json#/$defs/id" },
+    "language": { "$ref": "./item.schema.json#/$defs/id" },
+    "claims": { "$ref": "./statement.schema.json#/$defs/group" },
+    "forms": {
+      "oneOf": [
+        { "type": "object", "const": {}, "maxProperties": 0 },
+        {
+          "type": "array",
+          "items": { "$ref": "./form.schema.json" },
+          "minItems": 0
+        }
+      ]
+    },
+    "senses": {
+      "oneOf": [
+        { "type": "object", "const": {}, "maxProperties": 0 },
+        {
+          "type": "array",
+          "items": { "$ref": "./sense.schema.json" },
+          "minItems": 0
+        }
+      ]
+    }
+  },
+  "required": [
+    "pageid",
+    "ns",
+    "title",
+    "lastrevid",
+    "modified",
+    "type",
+    "id",
+    "lemmas",
+    "lexicalCategory",
+    "language",
+    "claims",
+    "forms",
+    "senses"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "id": {
+      "$anchor": "id",
+      "title": "Lexeme ID",
+      "type": "string",
+      "minLength": 2,
+      "pattern": "^L[1-9][0-9]*$"
+    }
+  }
+}

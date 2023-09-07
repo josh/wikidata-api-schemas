@@ -1,0 +1,89 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/property.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Property",
+  "type": "object",
+  "properties": {
+    "type": {
+      "description": "The entity type identifier",
+      "type": "string",
+      "const": "property"
+    },
+    "pageid": { "$ref": "./entity.schema.json#/$defs/pageid" },
+    "ns": { "$ref": "./entity.schema.json#/$defs/ns", "const": 120 },
+    "title": { "$ref": "./entity.schema.json#/$defs/title" },
+    "lastrevid": { "$ref": "./entity.schema.json#/$defs/lastrevid" },
+    "modified": { "$ref": "./entity.schema.json#/$defs/modified" },
+    "datatype": { "$ref": "#/$defs/datatype" },
+    "id": { "$ref": "#/$defs/id" },
+    "labels": { "$ref": "./entity.schema.json#/$defs/labels" },
+    "descriptions": { "$ref": "./entity.schema.json#/$defs/descriptions" },
+    "aliases": { "$ref": "./entity.schema.json#/$defs/aliases" },
+    "claims": { "$ref": "./statement.schema.json#/$defs/group" }
+  },
+  "required": [
+    "pageid",
+    "ns",
+    "title",
+    "lastrevid",
+    "modified",
+    "type",
+    "datatype",
+    "id",
+    "labels",
+    "descriptions",
+    "aliases",
+    "claims"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "id": {
+      "$anchor": "id",
+      "title": "Property ID",
+      "type": "string",
+      "minLength": 2,
+      "pattern": "^P[1-9][0-9]*$",
+      "examples": ["P31"]
+    },
+    "id-order": {
+      "$anchor": "id-order",
+      "title": "Property Order",
+      "type": "array",
+      "items": { "$ref": "#/$defs/id" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "datatype": {
+      "$anchor": "datatype",
+      "title": "Property Data Type",
+      "$comment": "https://www.wikidata.org/wiki/Special:ListDatatypes",
+      "type": "string",
+      "enum": [
+        "commonsMedia",
+        "geo-shape",
+        "tabular-data",
+        "url",
+        "external-id",
+        "wikibase-item",
+        "wikibase-property",
+        "globe-coordinate",
+        "monolingualtext",
+        "quantity",
+        "string",
+        "time",
+        "musical-notation",
+        "math",
+        "wikibase-lexeme",
+        "wikibase-form",
+        "wikibase-sense"
+      ]
+    },
+    "group": {
+      "$anchor": "group",
+      "title": "Properties",
+      "type": "object",
+      "patternProperties": { "^P[1-9][0-9]*$": { "$ref": "#" } },
+      "minProperties": 1
+    }
+  }
+}

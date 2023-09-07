@@ -1,0 +1,192 @@
+{
+  "entities": {
+    "Q1894302": {
+      "pageid": 1824422,
+      "ns": 0,
+      "title": "Q1894302",
+      "lastrevid": 1896245207,
+      "modified": "2023-05-14T17:27:46Z",
+      "type": "item",
+      "id": "Q1894302",
+      "labels": {},
+      "descriptions": {
+        "fr": { "language": "fr", "value": "lac su\u00e9dois" },
+        "nl": { "language": "nl", "value": "meer in Zweden" },
+        "he": {
+          "language": "he",
+          "value": "\u05d0\u05d2\u05dd \u05d1\u05e9\u05d5\u05d5\u05d3\u05d9\u05d4"
+        },
+        "en": { "language": "en", "value": "lake in Sweden" },
+        "fi": { "language": "fi", "value": "j\u00e4rvi Ruotsissa" },
+        "ar": {
+          "language": "ar",
+          "value": "\u0628\u062d\u064a\u0631\u0629 \u0641\u064a \u0627\u0644\u0633\u0648\u064a\u062f"
+        },
+        "zh": { "language": "zh", "value": "\u745e\u5178\u6e56\u6cca" },
+        "es": { "language": "es", "value": "lago de Suecia" },
+        "tw": { "language": "tw", "value": "\u0186tade\u025b" },
+        "sq": { "language": "sq", "value": "liqen" },
+        "bn": {
+          "language": "bn",
+          "value": "\u09b8\u09c1\u0987\u09a1\u09c7\u09a8\u09c7\u09b0 \u09b9\u09cd\u09b0\u09a6"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u043e\u0437\u0435\u0440\u043e \u0443 \u0428\u0432\u0435\u0446\u0456\u0457"
+        }
+      },
+      "aliases": {},
+      "claims": {
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "eda4449ca5e0aa5dd0c004b740f9a49970988fcb",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 499474,
+                  "id": "Q499474"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q1894302$3D67BD5C-4C27-43EA-8F50-F6E2E5CDDFF3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "732ec1c90a6f0694c7db9a71bf09fe7f2b674172",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 10000,
+                          "id": "Q10000"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "c83b0e7fbdd58e611aa93b9d84b6194c20051c09",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 34,
+                  "id": "Q34"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1894302$A643B44D-8767-4B17-BC20-8DC2CF7669A7",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "c2a3f5d683e961979fa421f24aad190c5a7c25ff",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 23397,
+                  "id": "Q23397"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1894302$7C06137F-075D-468B-B1F0-58553D131C3E",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "36f27403a1cba45d762f12985df9689f130af479",
+              "datavalue": {
+                "value": {
+                  "latitude": 68.04444444,
+                  "longitude": 19.81861111,
+                  "altitude": null,
+                  "precision": 1.0e-5,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q1894302$33CDC884-455C-4E25-845B-F5C65069F60F",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "732ec1c90a6f0694c7db9a71bf09fe7f2b674172",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 10000,
+                          "id": "Q10000"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "cb5ecca17f4ce995cfe7eef5e4667cd1b97d3411",
+              "datavalue": { "value": "/g/121f8xmk", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1894302$8021589E-FB71-444F-AC9D-5B0C04155DE0",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {}
+    }
+  }
+}

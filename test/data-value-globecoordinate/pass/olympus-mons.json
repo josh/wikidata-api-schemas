@@ -1,0 +1,10 @@
+{
+  "value": {
+    "latitude": 18.65,
+    "longitude": 226.2,
+    "altitude": null,
+    "precision": 0.0002777777777777778,
+    "globe": "http://www.wikidata.org/entity/Q111"
+  },
+  "type": "globecoordinate"
+}

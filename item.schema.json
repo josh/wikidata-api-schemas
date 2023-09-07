@@ -1,0 +1,103 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/item.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Item",
+  "type": "object",
+  "properties": {
+    "type": {
+      "description": "The entity type identifier",
+      "type": "string",
+      "const": "item"
+    },
+    "pageid": { "$ref": "./entity.schema.json#/$defs/pageid" },
+    "ns": { "$ref": "./entity.schema.json#/$defs/ns", "const": 0 },
+    "title": { "$ref": "./entity.schema.json#/$defs/title" },
+    "lastrevid": { "$ref": "./entity.schema.json#/$defs/lastrevid" },
+    "modified": { "$ref": "./entity.schema.json#/$defs/modified" },
+    "id": { "$ref": "#/$defs/id" },
+    "labels": { "$ref": "./entity.schema.json#/$defs/labels" },
+    "descriptions": { "$ref": "./entity.schema.json#/$defs/descriptions" },
+    "aliases": { "$ref": "./entity.schema.json#/$defs/aliases" },
+    "claims": { "$ref": "./statement.schema.json#/$defs/group" },
+    "sitelinks": {
+      "title": "Sitelinks",
+      "type": "object",
+      "patternProperties": { "^[a-z]+$": { "$ref": "#/$defs/sitelink" } },
+      "minProperties": 0
+    }
+  },
+  "required": [
+    "pageid",
+    "ns",
+    "title",
+    "lastrevid",
+    "modified",
+    "type",
+    "id",
+    "labels",
+    "descriptions",
+    "aliases",
+    "claims",
+    "sitelinks"
+  ],
+  "additionalProperties": false,
+  "$defs": {
+    "id": {
+      "$anchor": "id",
+      "title": "Item ID",
+      "type": "string",
+      "minLength": 2,
+      "pattern": "^Q[1-9][0-9]*$",
+      "examples": ["Q42"]
+    },
+    "uri": {
+      "$anchor": "uri",
+      "title": "Item URI",
+      "type": "string",
+      "format": "uri",
+      "minLength": 33,
+      "pattern": "^http://www.wikidata.org/entity/Q[1-9][0-9]*$"
+    },
+    "sitelink": {
+      "$anchor": "sitelink",
+      "title": "Sitelink",
+      "type": "object",
+      "properties": {
+        "site": {
+          "description": "The site global ID",
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z]+$"
+        },
+        "title": {
+          "description": "The page title",
+          "type": "string",
+          "minLength": 1
+        },
+        "badges": {
+          "description": "Any badges associated with the page",
+          "type": "array",
+          "items": { "$ref": "#/$defs/id" },
+          "minItems": 0,
+          "uniqueItems": true
+        },
+        "url": {
+          "description": "The full URL of the page",
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://",
+          "minLength": 1
+        }
+      },
+      "required": ["site", "title", "badges"],
+      "additionalProperties": false
+    },
+    "group": {
+      "$anchor": "group",
+      "title": "Items",
+      "type": "object",
+      "patternProperties": { "^Q[1-9][0-9]*$": { "$ref": "#" } },
+      "minProperties": 1
+    }
+  }
+}

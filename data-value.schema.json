@@ -1,0 +1,36 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/data-value.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Data Value",
+  "oneOf": [
+    { "$ref": "./data-values/globecoordinate.schema.json" },
+    { "$ref": "./data-values/monolingualtext.schema.json" },
+    { "$ref": "./data-values/quantity.schema.json" },
+    { "$ref": "./data-values/string.schema.json" },
+    { "$ref": "./data-values/time.schema.json" },
+    { "$ref": "./data-values/wikibase-entityid.schema.json" }
+  ],
+  "$defs": {
+    "globecoordinate": {
+      "$anchor": "globecoordinate",
+      "$ref": "./data-values/globecoordinate.schema.json"
+    },
+    "monolingualtext": {
+      "$anchor": "monolingualtext",
+      "$ref": "./data-values/monolingualtext.schema.json"
+    },
+    "quantity": {
+      "$anchor": "quantity",
+      "$ref": "./data-values/quantity.schema.json"
+    },
+    "string": {
+      "$anchor": "string",
+      "$ref": "./data-values/string.schema.json"
+    },
+    "time": { "$anchor": "time", "$ref": "./data-values/time.schema.json" },
+    "wikibase-entityid": {
+      "$anchor": "wikibase-entityid",
+      "$ref": "./data-values/wikibase-entityid.schema.json"
+    }
+  }
+}

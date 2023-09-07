@@ -1,0 +1,9 @@
+{
+  "value": {
+    "longitude": -3.6736,
+    "precision": 0.0001,
+    "globe": "http://www.wikidata.org/entity/Q2",
+    "latitude": 40.3929
+  },
+  "type": "globecoordinate"
+}

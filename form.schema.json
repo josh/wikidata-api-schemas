@@ -1,0 +1,37 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/form.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Form",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "#/$defs/id" },
+    "representations": {
+      "title": "Representations",
+      "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "minProperties": 1
+    },
+    "grammaticalFeatures": {
+      "type": "array",
+      "items": { "$ref": "./item.schema.json#/$defs/id" },
+      "minItems": 0,
+      "uniqueItems": true
+    },
+    "claims": {
+      "oneOf": [
+        { "type": "array", "const": [], "maxItems": 0 },
+        { "$ref": "./statement.schema.json#/$defs/group" }
+      ]
+    }
+  },
+  "required": ["id", "representations", "grammaticalFeatures", "claims"],
+  "additionalProperties": false,
+  "$defs": {
+    "id": {
+      "$anchor": "id",
+      "title": "Form ID",
+      "type": "string",
+      "minLength": 5,
+      "pattern": "^L[1-9][0-9]*-F[1-9][0-9]*$"
+    }
+  }
+}

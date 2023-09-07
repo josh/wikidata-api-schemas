@@ -1,0 +1,8 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/test/multilingual-text-value-codes/test.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "$ref": "../../multilingual-text-value.schema.json#/$defs/code"
+  }
+}

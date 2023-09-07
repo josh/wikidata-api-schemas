@@ -1,0 +1,380 @@
+{
+  "entities": {
+    "Q45257": {
+      "pageid": 47419,
+      "ns": 0,
+      "title": "Q45257",
+      "lastrevid": 1431165337,
+      "modified": "2021-05-29T22:54:41Z",
+      "type": "item",
+      "id": "Q45257",
+      "labels": {
+        "ja": {
+          "language": "ja",
+          "value": "\u7b2c13\u56de\u30d5\u30ed\u30ea\u30c0\u6620\u753b\u6279\u8a55\u5bb6\u5354\u4f1a\u8cde"
+        },
+        "en": {
+          "language": "en",
+          "value": "Florida Film Critics Circle Awards 2008"
+        },
+        "fr": {
+          "language": "fr",
+          "value": "13e c\u00e9r\u00e9monie des Florida Film Critics Circle Awards"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u7b2c13\u5c4a\u4f5b\u7f57\u91cc\u8fbe\u5f71\u8bc4\u4eba\u534f\u4f1a\u5956"
+        },
+        "id": {
+          "language": "id",
+          "value": "Florida Film Critics Circle Awards 2008"
+        },
+        "ml": {
+          "language": "ml",
+          "value": "\u0d2b\u0d4d\u0d32\u0d4b\u0d31\u0d3f\u0d21 \u0d2b\u0d3f\u0d32\u0d3f\u0d02 \u0d15\u0d4d\u0d30\u0d3f\u0d1f\u0d4d\u0d1f\u0d3f\u0d15\u0d4d\u0d38\u0d4d \u0d38\u0d7c\u0d15\u0d4d\u0d15\u0d3f\u0d7e \u0d05\u0d35\u0d3e\u0d7c\u0d21\u0d4d 2008"
+        }
+      },
+      "descriptions": {},
+      "aliases": {},
+      "claims": {
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "02e793754b73e251d2d8b6827bd1d1726023dc3d",
+              "datavalue": { "value": "/m/0573_w0", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q45257$3F421C77-F018-48F5-B2D2-C8668B2F93F3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P577"]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "d6c434dba3649476c4e8393922de0e0f8f107f44",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4504495,
+                  "id": "Q4504495"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q45257$b4ad11c2-4908-0b20-4f59-fc36a36cd219",
+            "rank": "normal"
+          }
+        ],
+        "P155": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P155",
+              "hash": "82e10293f06a11ea184bea1c09dded1b74fc0310",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 45266,
+                  "id": "Q45266"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q45257$16797BC9-98EF-4648-B6DA-CE9EE5455F72",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P156": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P156",
+              "hash": "f5ee95daf19e4460c897d332de95295f4aaf8cf5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 45274,
+                  "id": "Q45274"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q45257$E76FCD0C-28F9-4FF2-826D-34C3E52B9C2E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P276": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P276",
+              "hash": "2d3aa9990f11c6638d2b146ba53fd7771cd9637d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 812,
+                  "id": "Q812"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q45257$5670BD4A-9235-412E-9908-8603FA88B4E8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa25e7dc31eed2696cdeec90b14f63a82af7e5ec",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "f5e1568bacdc614dbbd6240a03c58689a6b45a11",
+                      "datavalue": {
+                        "value": "https://fr.wikipedia.org/w/index.php?title=13e_c\u00e9r\u00e9monie_des_Florida_Film_Critics_Circle_Awards&oldid=150060956",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143", "P4656"]
+              }
+            ]
+          }
+        ],
+        "P179": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P179",
+              "hash": "994368235e92f2b76891b62d17030fb87ed1c712",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 18640780,
+                  "id": "Q18640780"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q45257$C0CD49E3-E846-4802-B9EB-2C3F61F7AD38",
+            "rank": "normal"
+          }
+        ],
+        "P585": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P585",
+              "hash": "43bdb90ab9b607c864931ed584115ff944210c6b",
+              "datavalue": {
+                "value": {
+                  "time": "+2008-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q45257$DC244893-E2FC-4B25-9B04-36CF932338C1",
+            "rank": "normal"
+          }
+        ],
+        "P393": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P393",
+              "hash": "c1eebeea3896f7f316b7bc6abc4d20ea2dda8a6d",
+              "datavalue": { "value": "13", "type": "string" },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q45257$D756C748-D5FE-4972-87A3-1AD5E4B9E5AB",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "be4c6eafa2984964f04be85667263f5642ba1a72",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30,
+                  "id": "Q30"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q45257$B13F8B61-94C2-4D7D-AC64-DB7406BB8A23",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Florida Film Critics Circle Awards 2008",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Florida_Film_Critics_Circle_Awards_2008"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "13e c\u00e9r\u00e9monie des Florida Film Critics Circle Awards",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/13e_c%C3%A9r%C3%A9monie_des_Florida_Film_Critics_Circle_Awards"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Florida Film Critics Circle Awards 2008",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Florida_Film_Critics_Circle_Awards_2008"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u7b2c13\u56de\u30d5\u30ed\u30ea\u30c0\u6620\u753b\u6279\u8a55\u5bb6\u5354\u4f1a\u8cde",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E7%AC%AC13%E5%9B%9E%E3%83%95%E3%83%AD%E3%83%AA%E3%83%80%E6%98%A0%E7%94%BB%E6%89%B9%E8%A9%95%E5%AE%B6%E5%8D%94%E4%BC%9A%E8%B3%9E"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u7b2c13\u5c4a\u4f5b\u7f57\u91cc\u8fbe\u5f71\u8bc4\u4eba\u534f\u4f1a\u5956",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E7%AC%AC13%E5%B1%8A%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%BD%B1%E8%AF%84%E4%BA%BA%E5%8D%8F%E4%BC%9A%E5%A5%96"
+        }
+      }
+    }
+  }
+}

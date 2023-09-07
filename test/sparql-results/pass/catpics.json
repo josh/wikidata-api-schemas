@@ -1,0 +1,699 @@
+{
+  "head": {
+    "vars": ["item", "itemLabel", "pic"]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28792126"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayasofya%20Gli%20cat.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gli"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49581026"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20cat%2C%20asleep%20%28319313958%29.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Toffee"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51596094"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Crimean%20Tom.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Crimean Tom"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52150156"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Arcturus%20standing.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arcturus Aldebaran Powers"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53216650"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Stationmaster%20NITAMA%2020110105.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nitama"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54087698"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Foss%20Couchant.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Foss"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q61133276"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Eero%20CHP.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Şero"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q62128317"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Naro%2C%20blue-eyed%20cross-siamese%20cat%2C%20at%20Josselin%2004.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Naro"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q66737405"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mittens%20the%20cat%20of%20wellington.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mittens"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q76974430"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%BA%D0%B0%20%D0%94%D1%96%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%B7%20%D0%BA%D0%BE%D1%82%D0%BE%D0%BC%20%D0%90%D0%BF%D0%B5%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D0%BE%D0%BC.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Apelmon"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q94990539"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Wellcome%27s%20cats%20Wellcome%20L0069711.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pip"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105330885"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuna%20Chapa%2C%20Brewing%20Beer.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tuna"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110727478"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Willow%20the%20First%20Cat.png"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Willow"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q112152493"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Rescue%20of%20a%20cat%20in%20Borodianka%2C%202%20May%202022%20%284%29.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "the pet from Borodianka"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117465068"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Gatto%20Siberiano%20golden%20%28cropped%29.JPG"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "golden cat"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120122115"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Fulmer%20Zaida%20-%20Silver%20Persian.JPG"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zaida"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q120169853"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Shorthair%20cat%20English%20type.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bayard"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q378619"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Ccandowner2003.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "CC"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q677525"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Orangey%20with%20Audrey%20Hepburn%20in%20Breakfast%20at%20Tiffanys.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Orangey"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q851190"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mrschippy2.png"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mrs. Chippy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q893453"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%2C%20cat%20from%20the%20German%20ship%20%27Bismarck%27.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Unsinkable Sam"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1201902"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Station-Master%20Tama.JPG"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tama"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1371145"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Socks%20the%20Cat%20Explores.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Socks"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1413628"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/NoraPianoCat.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nora"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1622688"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Hodgecat%20flickr.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hodge"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2060630"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/India%20the%20Cat%20Miss%20Beazley%20and%20Barney%20Halloween%202007%20%28cropped%29.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "India"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2060630"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/IndioCat.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "India"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2060630"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/WhiteHousePets%2C%20ValentinesDay2007.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "India"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4421603"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/ScarlettTheCat.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Scarlett"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5503291"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Freya%20the%20cat-20120615%20132253%20%28cropped%29.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Freya"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6928344"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr%20Nuts%20Executive%20Portrait.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mr. Nuts"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7430467"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Guinness%20Cat%206.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Scarlett's Magic"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7553023"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sockington%20from%20above.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sockington"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7627362"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Mayor%20Stubbs.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stubbs"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7714263"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Grumpy%20Cat%20%2814556024763%29%20%28cropped%29.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Grumpy Cat"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10813994"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Brother%20cream%20in%20stall.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tsim Tung Brother Cream"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11291938"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%AA%E3%82%B7%E3%83%B3%E3%82%B3%E3%82%B7%E3%83%B3%E3%81%AE%E6%BB%9D%E3%81%AE%E7%8C%AB%E3%81%AE%E6%98%BC%E5%AF%9D.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nora"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14832020"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Lil-Bub-2013.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lil Bub"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14916910"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Buurtpoesbledder.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Buurtpoes Bledder"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15991501"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamish%20McHamish%20In%20Bookshop.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hamish McHamish"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22774485"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/07.22%20%E7%B8%BD%E7%B5%B1%E9%8C%84%E8%A3%BDYoutube%E5%BD%B1%E7%89%87.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Think Think"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24705153"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/04.12%20%E7%B8%BD%E7%B5%B1%E8%A7%80%E8%B3%9E%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92%E6%AF%94%E8%B3%BD%20Tsai%20Ing-Wen%20watching%20baseball%20with%20Ah%20Tsai.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ah Tsai"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25171691"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Palmerston%20%2826341788971%29.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Palmerston"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27190410"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Gladstone%20a%20year%20in%20Treasury%20%281%29.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gladstone"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27744042"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20and%20Bob.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bob"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28665865"
+        },
+        "pic": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%D0%A3%D1%88%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0.%201927.jpg"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Myka"
+        }
+      }
+    ]
+  }
+}

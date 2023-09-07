@@ -1,0 +1,55 @@
+openapi: 3.1.0
+
+info:
+  title: MediaWiki Action API
+  version: 1.0.0
+
+externalDocs:
+  url: https://www.wikidata.org/wiki/Wikidata:Data_access#MediaWiki_Action_API
+
+servers:
+  - url: https://wikidata.org/w/api.php
+
+paths:
+  ?action=wbgetentities:
+    get:
+      operationId: wbgetentities
+      summary: Gets the data for multiple Wikibase entities.
+      parameters:
+        - in: query
+          name: format
+          schema:
+            type: string
+            enum: [json, jsonfm, none, php, phpfm, rawfm, xml, xmlfm]
+            default: jsonfm
+          required: false
+        - in: query
+          name: formatversion
+          schema:
+            type: string
+            enum: [1, 2, latest]
+            default: 1
+        - in: query
+          name: ids
+          schema:
+            type: string
+          examples:
+            Q42:
+              value: Q42
+            P17:
+              value: P17
+            Q42|P17:
+              value: Q42|P17
+      responses:
+        "200":
+          description: Wikibase Entities
+          content:
+            text/html: {}
+            application/json:
+              schema:
+                type: object
+                properties:
+                  entities:
+                    $ref: "./entity.schema.json#/$defs/group"
+            application/vnd.php.serialized: {}
+            text/xml: {}

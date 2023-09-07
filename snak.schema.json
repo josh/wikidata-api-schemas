@@ -1,0 +1,74 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/snak.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Property Snak",
+  "oneOf": [
+    { "$ref": "#/$defs/value" },
+    { "$ref": "#/$defs/somevalue" },
+    { "$ref": "#/$defs/novalue" }
+  ],
+  "$defs": {
+    "value": {
+      "$anchor": "value",
+      "title": "Property Value Snak",
+      "type": "object",
+      "properties": {
+        "snaktype": { "type": "string", "const": "value" },
+        "property": { "$ref": "./property.schema.json#/$defs/id" },
+        "hash": { "$ref": "#/$defs/hash" },
+        "datavalue": { "$ref": "./data-value.schema.json" },
+        "datatype": { "$ref": "./property.schema.json#/$defs/datatype" }
+      },
+      "required": ["snaktype", "property", "datatype", "datavalue"],
+      "additionalProperties": false
+    },
+    "somevalue": {
+      "$anchor": "somevalue",
+      "title": "Property Some Value Snak",
+      "type": "object",
+      "properties": {
+        "snaktype": { "type": "string", "const": "somevalue" },
+        "property": { "$ref": "./property.schema.json#/$defs/id" },
+        "hash": { "$ref": "#/$defs/hash" },
+        "datatype": { "$ref": "./property.schema.json#/$defs/datatype" }
+      },
+      "required": ["snaktype", "property"],
+      "additionalProperties": false
+    },
+    "novalue": {
+      "$anchor": "novalue",
+      "title": "Property No Value Snak",
+      "type": "object",
+      "properties": {
+        "snaktype": { "type": "string", "const": "novalue" },
+        "property": { "$ref": "./property.schema.json#/$defs/id" },
+        "hash": { "$ref": "#/$defs/hash" },
+        "datatype": { "$ref": "./property.schema.json#/$defs/datatype" }
+      },
+      "required": ["snaktype", "property"],
+      "additionalProperties": false
+    },
+    "hash": {
+      "$anchor": "hash",
+      "title": "Property Snak Hash",
+      "type": "string",
+      "minLength": 40,
+      "maxLength": 40,
+      "pattern": "^[0-9a-f]{40}$"
+    },
+    "group": {
+      "$anchor": "group",
+      "title": "Grouped Snaks",
+      "type": "object",
+      "patternProperties": {
+        "^P[1-9][0-9]*$": {
+          "type": "array",
+          "items": { "$ref": "./snak.schema.json" },
+          "minItems": 1
+        }
+      },
+      "minProperties": 1,
+      "additionalProperties": false
+    }
+  }
+}

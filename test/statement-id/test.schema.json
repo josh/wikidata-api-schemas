@@ -1,0 +1,5 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/test/statement-id/test.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$ref": "../../statement.schema.json#id"
+}

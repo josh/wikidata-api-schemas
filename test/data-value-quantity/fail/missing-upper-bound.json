@@ -1,0 +1,8 @@
+{
+  "value": {
+    "amount": "+10.38",
+    "lowerBound": "+10.385",
+    "unit": "http://www.wikidata.org/entity/Q712226"
+  },
+  "type": "quantity"
+}

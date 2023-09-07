@@ -1,0 +1,114 @@
+{
+  "type": "lexeme",
+  "id": "L13",
+  "lemmas": { "en": { "language": "en", "value": "thirteen" } },
+  "lexicalCategory": "Q63116",
+  "language": "Q1860",
+  "claims": {
+    "P5402": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5402",
+          "datavalue": {
+            "value": {
+              "entity-type": "lexeme",
+              "numeric-id": 341159,
+              "id": "L341159"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-lexeme"
+        },
+        "type": "statement",
+        "id": "L13$DE99804E-ED7A-4432-9C74-1AAC56D6DBB7",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P5402",
+          "datavalue": {
+            "value": {
+              "entity-type": "lexeme",
+              "numeric-id": 329263,
+              "id": "L329263"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-lexeme"
+        },
+        "type": "statement",
+        "id": "L13$A68A3662-FD38-43AE-80EE-B27A88AAFECC",
+        "rank": "normal"
+      }
+    ]
+  },
+  "forms": [
+    {
+      "id": "L13-F1",
+      "representations": { "en": { "language": "en", "value": "thirteen" } },
+      "grammaticalFeatures": [],
+      "claims": []
+    }
+  ],
+  "senses": [
+    {
+      "id": "L13-S1",
+      "glosses": {
+        "ru": { "language": "ru", "value": "\u0447\u0438\u0441\u043b\u043e" },
+        "fr": { "language": "fr", "value": "treize" },
+        "ms": { "language": "ms", "value": "tiga belas" },
+        "pl": { "language": "pl", "value": "trzyna\u015bcie" },
+        "en": { "language": "en", "value": "number between 12 and 14" },
+        "de": { "language": "de", "value": "dreizehn" },
+        "zh": { "language": "zh", "value": "\u5341\u4e09" },
+        "zh-hans": { "language": "zh-hans", "value": "\u5341\u4e09" },
+        "it": { "language": "it", "value": "tredici" }
+      },
+      "claims": {
+        "P5137": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5137",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 37141,
+                  "id": "Q37141"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "L13-S1$d9145183-4bbb-d177-b31e-949e457f6b51",
+            "rank": "normal"
+          }
+        ],
+        "P5972": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5972",
+              "datavalue": {
+                "value": { "entity-type": "sense", "id": "L230791-S1" },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-sense"
+            },
+            "type": "statement",
+            "id": "L13-S1$fbc46459-44f6-fc88-9a8d-3e1dd40ed73e",
+            "rank": "normal"
+          }
+        ]
+      }
+    }
+  ],
+  "pageid": 54387257,
+  "ns": 146,
+  "title": "Lexeme:L13",
+  "lastrevid": 1908150558,
+  "modified": "2023-06-04T17:08:59Z"
+}

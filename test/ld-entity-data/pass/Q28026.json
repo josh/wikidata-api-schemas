@@ -1,0 +1,2431 @@
+{
+  "entities": {
+    "Q28026": {
+      "pageid": 31411,
+      "ns": 0,
+      "title": "Q28026",
+      "lastrevid": 1966232324,
+      "modified": "2023-09-01T22:01:39Z",
+      "type": "item",
+      "id": "Q28026",
+      "labels": {
+        "en": { "language": "en", "value": "Akan" },
+        "ak": { "language": "ak", "value": "Akan" },
+        "ar": {
+          "language": "ar",
+          "value": "\u0627\u0644\u0623\u0643\u0627\u0646\u064a\u0629"
+        },
+        "ast": { "language": "ast", "value": "Llingua Ak\u00e1n" },
+        "br": { "language": "br", "value": "akaneg" },
+        "ca": { "language": "ca", "value": "\u00e0kan" },
+        "cs": { "language": "cs", "value": "akan\u0161tina" },
+        "de": { "language": "de", "value": "Akan" },
+        "eo": { "language": "eo", "value": "akanaj lingvoj" },
+        "es": { "language": "es", "value": "lenguas ak\u00e1nicas" },
+        "et": { "language": "et", "value": "akani keel" },
+        "fi": { "language": "fi", "value": "akanin kieli" },
+        "fr": { "language": "fr", "value": "akan" },
+        "gl": { "language": "gl", "value": "Lingua akan" },
+        "gv": { "language": "gv", "value": "Akanish" },
+        "hr": { "language": "hr", "value": "Akan jezik" },
+        "is": { "language": "is", "value": "Akanm\u00e1l" },
+        "it": { "language": "it", "value": "akan" },
+        "ja": { "language": "ja", "value": "\u30a2\u30ab\u30f3\u8a9e" },
+        "ko": { "language": "ko", "value": "\uc544\uce78\uc5b4\uad70" },
+        "kv": { "language": "kv", "value": "\u0410\u043a\u0430\u043d" },
+        "lt": { "language": "lt", "value": "Akan\u0173 kalba" },
+        "lv": { "language": "lv", "value": "Akanu valodas" },
+        "pl": { "language": "pl", "value": "j\u0119zyk akan" },
+        "pms": { "language": "pms", "value": "Lenga Akan" },
+        "pt": { "language": "pt", "value": "l\u00edngua akan" },
+        "qu": { "language": "qu", "value": "Akan simi" },
+        "ru": { "language": "ru", "value": "\u0430\u043a\u0430\u043d" },
+        "sv": { "language": "sv", "value": "akan" },
+        "sw": { "language": "sw", "value": "Kiakan" },
+        "ta": {
+          "language": "ta",
+          "value": "\u0b85\u0b95\u0ba9 \u0bae\u0bca\u0bb4\u0bbf"
+        },
+        "tw": { "language": "tw", "value": "Akan" },
+        "uk": { "language": "uk", "value": "\u0430\u043a\u0430\u043d" },
+        "zh": { "language": "zh", "value": "\u963f\u574e\u8bed" },
+        "mk": {
+          "language": "mk",
+          "value": "\u0410\u043a\u0430\u043d\u0441\u043a\u0438 \u0458\u0430\u0437\u0438\u043a"
+        },
+        "oc": { "language": "oc", "value": "\u00c0kan" },
+        "bn": {
+          "language": "bn",
+          "value": "\u0986\u0995\u09be\u09a8 \u09ad\u09be\u09b7\u09be"
+        },
+        "nb": { "language": "nb", "value": "akan" },
+        "hy": {
+          "language": "hy",
+          "value": "\u0561\u0584\u0561\u0576\u0565\u0580\u0565\u0576"
+        },
+        "fa": {
+          "language": "fa",
+          "value": "\u0632\u0628\u0627\u0646 \u0627\u06a9\u0627\u0646\u06cc"
+        },
+        "nl": { "language": "nl", "value": "Akan" },
+        "zh-hans": { "language": "zh-hans", "value": "\u963f\u80af\u8bed" },
+        "zh-hant": { "language": "zh-hant", "value": "\u963f\u5bd2\u8a9e" },
+        "ur": {
+          "language": "ur",
+          "value": "\u0627\u06a9\u0627\u0646 \u0632\u0628\u0627\u0646"
+        },
+        "ilo": { "language": "ilo", "value": "Akan" },
+        "nn": { "language": "nn", "value": "akan" },
+        "zh-cn": { "language": "zh-cn", "value": "\u963f\u80af\u8bed" },
+        "zh-tw": { "language": "zh-tw", "value": "\u963f\u5bd2\u8a9e" },
+        "hif": { "language": "hif", "value": "Akan language" },
+        "vi": { "language": "vi", "value": "ti\u1ebfng Akan" },
+        "ml": {
+          "language": "ml",
+          "value": "\u0d05\u0d15\u0d3e\u0d7b \u0d2d\u0d3e\u0d37"
+        },
+        "en-gb": { "language": "en-gb", "value": "Akan" },
+        "tl": { "language": "tl", "value": "Wikang Akan" },
+        "hu": { "language": "hu", "value": "akan" },
+        "aeb-arab": {
+          "language": "aeb-arab",
+          "value": "\u0627\u0644\u0623\u0643\u0627\u0646\u064a"
+        },
+        "he": { "language": "he", "value": "\u05d0\u05e7\u05d0\u05df" },
+        "azb": {
+          "language": "azb",
+          "value": "\u0627\u06a9\u0627\u0646\u06cc \u062f\u06cc\u0644\u06cc"
+        },
+        "af": { "language": "af", "value": "Akan" },
+        "kbp": { "language": "kbp", "value": "Aka\u014b" },
+        "frr": { "language": "frr", "value": "Akan spriaken" },
+        "nqo": { "language": "nqo", "value": "\u07ca\u07de\u07ca\u07f2" },
+        "az": { "language": "az", "value": "Akan dili" },
+        "arz": {
+          "language": "arz",
+          "value": "\u0627\u0644\u0627\u0643\u0627\u0646\u064a\u0647"
+        },
+        "pt-br": { "language": "pt-br", "value": "l\u00edngua akan" },
+        "dag": { "language": "dag", "value": "kambonsili" },
+        "se": { "language": "se", "value": "akangiella" },
+        "sms": { "language": "sms", "value": "akan\u01e9i\u00f5ll" },
+        "sg": { "language": "sg", "value": "Ak\u00e2an" },
+        "sat": {
+          "language": "sat",
+          "value": "\u1c5f\u1c60\u1c5f\u1c71 \u1c6f\u1c5f\u1c79\u1c68\u1c65\u1c64"
+        },
+        "wuu": { "language": "wuu", "value": "\u963f\u80af\u8bed" },
+        "tt": {
+          "language": "tt",
+          "value": "\u0430\u043a\u0430\u043d \u0442\u0435\u043b\u0435"
+        },
+        "ha": { "language": "ha", "value": "Yaren Akan" },
+        "sk": { "language": "sk", "value": "akan\u010dina" },
+        "vec": { "language": "vec", "value": "\u00e0kan" },
+        "ig": { "language": "ig", "value": "Akan language" },
+        "anp": {
+          "language": "anp",
+          "value": "\u0905\u0915\u0928 \u092d\u093e\u0937\u093e"
+        },
+        "mzn": { "language": "mzn", "value": "\u0627\u06a9\u0627\u0646\u06cc" },
+        "mg": { "language": "mg", "value": "Fiteny ak\u00e0na" }
+      },
+      "descriptions": {
+        "en": { "language": "en", "value": "language of Akan lands in Ghana" },
+        "it": { "language": "it", "value": "lingua kwa parlata in Ghana" },
+        "es": {
+          "language": "es",
+          "value": "grupo de variedades dialectales relacionadas con mayor o menor grado de inteligibilidad, que pertencen al grupo potou-tano de las lenguas kwa"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u043e\u0434\u0438\u043d \u0438\u0437 \u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u044f\u0437\u044b\u043a\u043e\u0432"
+        },
+        "de": { "language": "de", "value": "Gruppe von Sprachen" },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u52a0\u7eb3\u963f\u80af\u4eba\u4f7f\u7528\u7684\u8bed\u8a00"
+        },
+        "ilo": {
+          "language": "ilo",
+          "value": "pagsasao dagiti daga ti Akan idiay Ghana"
+        },
+        "nl": { "language": "nl", "value": "taal" },
+        "he": { "language": "he", "value": "\u05e9\u05e4\u05d4" },
+        "bn": {
+          "language": "bn",
+          "value": "\u0998\u09be\u09a8\u09be\u09b0 \u0986\u0995\u09be\u09a8 \u099c\u09be\u09a4\u09bf\u09b0 \u09ad\u09be\u09b7\u09be"
+        },
+        "br": { "language": "br", "value": "yezh" },
+        "fr": {
+          "language": "fr",
+          "value": "langue nig\u00e9ro-congolaise parl\u00e9e au Ghana"
+        },
+        "la": { "language": "la", "value": "lingua" },
+        "cy": { "language": "cy", "value": "iaith" },
+        "ja": {
+          "language": "ja",
+          "value": "\u30ac\u30fc\u30ca\u304a\u3088\u3073\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb\u6771\u90e8\u3067\u7528\u3044\u3089\u308c\u308b\u8a00\u8a9e"
+        },
+        "nqo": {
+          "language": "nqo",
+          "value": "\u07ca\u07de\u07ca\u07f2\u07eb \u07d6\u07e1\u07ca\u07e3\u07ca \u07de\u07ca\u07f2 \u07d8\u07cf\u07eb \u07df\u07cb\u07ec"
+        },
+        "sv": { "language": "sv", "value": "spr\u00e5k" },
+        "dag": { "language": "dag", "value": "Gaana ti\u014b' zilinli" },
+        "fi": {
+          "language": "fi",
+          "value": "nigeril\u00e4is-kongolainen kieli"
+        },
+        "gl": { "language": "gl", "value": "lingua falada en Ghana" },
+        "pl": {
+          "language": "pl",
+          "value": "j\u0119zyk z Ghany, cz\u0142onek rodziny nigero-kongijskiej"
+        },
+        "zh": { "language": "zh", "value": "\u975e\u6d32\u8bed\u8a00" }
+      },
+      "aliases": {
+        "en": [
+          { "language": "en", "value": "Twi language" },
+          { "language": "en", "value": "Fante language" },
+          { "language": "en", "value": "Akan language" },
+          { "language": "en", "value": "ak" }
+        ],
+        "ru": [
+          {
+            "language": "ru",
+            "value": "\u0430\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a"
+          },
+          {
+            "language": "ru",
+            "value": "\u0447\u0432\u0438-\u0444\u0430\u043d\u0442\u0438"
+          },
+          { "language": "ru", "value": "ak" }
+        ],
+        "fr": [{ "language": "fr", "value": "ak" }],
+        "it": [{ "language": "it", "value": "lingua akan" }],
+        "zh": [{ "language": "zh", "value": "\u963f\u80af\u8a9e" }],
+        "vi": [
+          { "language": "vi", "value": "ti\u1ebfng Twi" },
+          { "language": "vi", "value": "ti\u1ebfng Fante" }
+        ],
+        "de": [{ "language": "de", "value": "Akan-Sprachen" }],
+        "ar": [
+          {
+            "language": "ar",
+            "value": "\u0644\u063a\u0629 \u0623\u0644\u064a\u0648\u062a\u064a\u0629"
+          },
+          {
+            "language": "ar",
+            "value": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0623\u0644\u064a\u0648\u062a\u064a\u0629"
+          },
+          { "language": "ar", "value": "\u0623\u0643\u0627\u0646\u064a\u0629" }
+        ],
+        "es": [{ "language": "es", "value": "lenguas akanicas" }],
+        "bn": [
+          {
+            "language": "bn",
+            "value": "\u099f\u09c1\u0987 \u09ad\u09be\u09b7\u09be"
+          },
+          {
+            "language": "bn",
+            "value": "\u09ab\u09be\u09a8\u09cd\u099f\u09c7 \u09ad\u09be\u09b7\u09be"
+          }
+        ],
+        "nqo": [
+          {
+            "language": "nqo",
+            "value": "\u07d5\u07d1\u07e5\u07cc\u07eb \u07de\u07ca\u07f2"
+          }
+        ],
+        "pt-br": [
+          { "language": "pt-br", "value": "akan" },
+          { "language": "pt-br", "value": "idioma akan" }
+        ],
+        "ak": [{ "language": "ak", "value": "ak" }],
+        "sk": [{ "language": "sk", "value": "akan" }]
+      },
+      "claims": {
+        "P1018": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1018",
+              "hash": "a441003c7333b0fcb03c40b44be28130b4886213",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4998375,
+                  "id": "Q4998375"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$1a959d9f-4cb3-0281-6417-36d4d1acaa1e",
+            "rank": "normal"
+          }
+        ],
+        "P218": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P218",
+              "hash": "e3f692992926843a1d648fa474c733c6f6283cb0",
+              "datavalue": { "value": "ak", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q28026$D115F4BA-64C6-4C39-8CE5-224B4CD21863",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "56b370ad342ff9d47a4119b3f53f894995cea4b7",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "27fbd18e13a0a2c1e2ae172bfbfc66577ffb38a2",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 75488338,
+                          "id": "Q75488338"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "68a06f5f5ab362597f2d12e45856619795420364",
+                      "datavalue": {
+                        "value": "https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P854"]
+              }
+            ]
+          }
+        ],
+        "P219": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P219",
+              "hash": "6d22b8903f5715510f63f671d85e517edacacd53",
+              "datavalue": { "value": "aka", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P518": [
+                {
+                  "snaktype": "value",
+                  "property": "P518",
+                  "hash": "00ff65bb1a461260bf135f740462f997b6c18c81",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1725664,
+                      "id": "Q1725664"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P518",
+                  "hash": "7309ae0684165099dd0bd8b351f5954606203c39",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1631107,
+                      "id": "Q1631107"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": ["P518"],
+            "id": "q28026$30458A74-6AE9-4527-AE1D-5BF31C5A62F6",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "56b370ad342ff9d47a4119b3f53f894995cea4b7",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "27fbd18e13a0a2c1e2ae172bfbfc66577ffb38a2",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 75488338,
+                          "id": "Q75488338"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "68a06f5f5ab362597f2d12e45856619795420364",
+                      "datavalue": {
+                        "value": "https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P854"]
+              }
+            ]
+          }
+        ],
+        "P220": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P220",
+              "hash": "210c8e4029178f897d43b4c30590f017ebefb998",
+              "datavalue": { "value": "aka", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q28026$3315aa87-4c64-952c-4d46-8f747be71565",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "56b370ad342ff9d47a4119b3f53f894995cea4b7",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "27fbd18e13a0a2c1e2ae172bfbfc66577ffb38a2",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 75488338,
+                          "id": "Q75488338"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "68a06f5f5ab362597f2d12e45856619795420364",
+                      "datavalue": {
+                        "value": "https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P854"]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "ac8ce0eb2aee500f93443c85f173bdbfece859a4",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 34770,
+                  "id": "Q34770"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$7AF0437A-DE18-4B52-AE57-14B3ABAF42B0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "b096ce736246deae93782819465859680c66015c",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "375610daaf9b20dda81cd83553d79636108b64cb",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 14790,
+                          "id": "Q14790"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248"]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "42b8412882ce6c1fe13f2cd5bc95a57c1816b833",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 152559,
+                  "id": "Q152559"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$6C128706-C57A-4CD3-993F-ADB014E23666",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "61edb75e9440807d73635f592270b56ef4b18020",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1288568,
+                  "id": "Q1288568"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$20707CB3-370F-4C8C-8C92-376EE99A7A3C",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "aa7510c7b332462833855539809abeeb914d5134",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "56aa594518e596b995d877f3e5aaeadf7e931860",
+                      "datavalue": {
+                        "value": "https://iso639-3.sil.org/code/aka",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P854"]
+              }
+            ]
+          }
+        ],
+        "P349": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P349",
+              "hash": "bbc8d58d08a38a55e3fecec74c59da4f970e4e66",
+              "datavalue": { "value": "00649047", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$40716B6D-874C-4C04-ADA5-7D478C816AA7",
+            "rank": "normal"
+          }
+        ],
+        "P910": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P910",
+              "hash": "3f1de8b7d345740ae97cb169cf7555f1c386330a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 10176522,
+                  "id": "Q10176522"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$2CD63E7A-EA42-46D7-9276-15F1AAA573E8",
+            "rank": "normal"
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "c719c3c12909fba7c6826a54ff0213f7c5285b5c",
+              "datavalue": { "value": "/m/02hw_03", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$09A7A596-9D42-4F1C-8205-089E4663A6CA",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P577"]
+              }
+            ]
+          }
+        ],
+        "P424": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P424",
+              "hash": "686676d973da09c60acb72deb100c0fc44f26566",
+              "datavalue": { "value": "ak", "type": "string" },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q28026$3AAB1448-8840-4133-8CCB-4A5F21A292C5",
+            "rank": "normal"
+          }
+        ],
+        "P305": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P305",
+              "hash": "8591c1824271bf7bfee22f2db7a918859e16910e",
+              "datavalue": { "value": "ak", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$8FC3F1BC-B09D-4488-8379-B8F939BF4829",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P282": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P282",
+              "hash": "1346363b216aa5bd0a728b8de9ac249b9ddf210f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8229,
+                  "id": "Q8229"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$D52D08E5-A3DF-45A3-B44B-42F0B70949A3",
+            "rank": "normal"
+          }
+        ],
+        "P279": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "1773e87fc4c20bd10103df1dcaf26f640c61ae66",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1658486,
+                  "id": "Q1658486"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$8F3A7790-5F8A-4F5F-B699-F67D6BCD6FFA",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "9f65d921b685923264bb6f697b142d01bda290f4",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 33430,
+                  "id": "Q33430"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$E17D6295-34E5-4B22-8CDD-91C0036400FE",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "dc275789f08a77702c1e379efe36506037541c94",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "27277517fb72db4624952a9d77b56d6caabfde55",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 23306977,
+                          "id": "Q23306977"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P304": [
+                    {
+                      "snaktype": "value",
+                      "property": "P304",
+                      "hash": "4ee85c5e09f98dd223439ba855b09bea0d12edc9",
+                      "datavalue": { "value": "314", "type": "string" },
+                      "datatype": "string"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P304"]
+              }
+            ]
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "a97f4b391a3e420409c9f7e2b94c15662971b3d8",
+              "datavalue": { "value": "4141691-0", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$9DCC3DC1-B527-4790-B423-DAFBBA098C71",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P1705": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "2567795c2e41759e5bcc30a2c7bc5d5f9fcb2692",
+              "datavalue": {
+                "value": { "text": "akan", "language": "ak" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q28026$B614C5DD-4241-470B-B56F-9DD073C42669",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "d8b189994a9523a9d3c5b754a567dab905bd6047",
+              "datavalue": {
+                "value": { "text": "Akan", "language": "ak" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q28026$BA7252BF-07BD-404D-B642-9461F5433F58",
+            "rank": "normal"
+          }
+        ],
+        "P1627": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1627",
+              "hash": "cfaddbbca882f72b989f06f659905fe3b2e6d824",
+              "datavalue": { "value": "aka", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$88806742-D27B-43F8-A24C-F25F54E96734",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a192626706e6a0ccdfb18a06d86408131338170d",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "8b711853ffcf2ee4bc1298113105835a0b51026a",
+                      "datavalue": {
+                        "value": "https://www.ethnologue.com/language/aka",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P854"]
+              }
+            ]
+          }
+        ],
+        "P269": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P269",
+              "hash": "cea22405572878a18eb8c7f4e3495a81427e516a",
+              "datavalue": { "value": "027278328", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$326C176D-9FD8-4139-A7D6-6FFEB094940E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P1394": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1394",
+              "hash": "9d580824f892a347f8797069ed7f72ae2f2b5772",
+              "datavalue": { "value": "akan1251", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$C523776C-A2D9-4FB0-8A1A-5067DDAE4A14",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1394",
+              "hash": "69ed66a29e69d96a5f8d40e1edc85306bc35bc64",
+              "datavalue": { "value": "akan1250", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$CCB32ED8-94A3-45C0-9024-2A65FF1C1A2F",
+            "rank": "preferred",
+            "references": [
+              {
+                "hash": "fcd50c344a6a6b70ea75f141620c3d6f0d2f3c4b",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "18c556088d2deeead0f16e2520c6185744b46d3a",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 1133223,
+                          "id": "Q1133223"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "1a248df2715443f4f71edc94cec3627d7045d2ba",
+                      "datavalue": {
+                        "value": "http://wals.info/languoid/lect/wals_code_akn",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "321209c8c8e5909b5fed6ace2e5dc2bcc2d05af3",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2017-11-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P854", "P813"]
+              }
+            ]
+          }
+        ],
+        "P1343": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1343",
+              "hash": "a5d6fe3487d2782365a4920977fba7262e75cf13",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 22639418,
+                  "id": "Q22639418"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P958": [
+                {
+                  "snaktype": "value",
+                  "property": "P958",
+                  "hash": "e1ecfcb2cde803ef0e36aa2153f8c40856c89751",
+                  "datavalue": { "value": "Akan", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P958"],
+            "id": "Q28026$909ef5e9-4dc4-4879-942d-50b8322eb668",
+            "rank": "normal"
+          }
+        ],
+        "P278": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P278",
+              "hash": "4ce1ec0739958f0b747b36833e53f03e1ae86595",
+              "datavalue": {
+                "value": "\u0430\u043a\u0430 027",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$43956D9D-D7E1-4901-AA4E-3F2B9C656DD8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "288ab581e7d2d02995a26dfa8b091d96e78457fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P4132": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4132",
+              "hash": "c3f15c61bb4ce8a5a37633f1a2f464692efa379e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 651641,
+                  "id": "Q651641"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$6596704C-AC36-4ACD-B83B-4ADD742B585D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 11920,
+                          "id": "Q11920"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P1417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1417",
+              "hash": "f3c7511686ecb505107f184a0feb9ec36c3f07a3",
+              "datavalue": {
+                "value": "topic/Akan-languages",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$2FB92F8B-A055-4633-A866-43815340552B",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1417",
+              "hash": "87a0f2ce360d5fa638af7bf4209f0d8f36cefe95",
+              "datavalue": {
+                "value": "topic/Fante-language",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$7BA1FB4A-73E8-45B9-A96C-54BB7946A845",
+            "rank": "normal"
+          }
+        ],
+        "P1466": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1466",
+              "hash": "25c46c400f933160b01fc746ebfc910f85a7f0ca",
+              "datavalue": { "value": "akn", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$419C808A-C558-45FA-927E-363020A30515",
+            "rank": "normal"
+          }
+        ],
+        "P5198": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5198",
+              "hash": "ea08ab268f79966576552d42694859760c6360e8",
+              "datavalue": { "value": "294897828", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$14EA3644-9E7F-4A4E-92A4-E32FE4BD8A69",
+            "rank": "normal"
+          }
+        ],
+        "P5250": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5250",
+              "hash": "1403889f2e974ccb9ba4bb1f58dc9793915fd45d",
+              "datavalue": { "value": "1035", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$17961A38-0629-4FA2-8641-E05FFCED0519",
+            "rank": "normal"
+          }
+        ],
+        "P4801": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4801",
+              "hash": "01ea011e60772f362c9bef0870a5d16dd3f12a5b",
+              "datavalue": { "value": "languages/aka", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$E7FD20EF-3B72-4531-BB89-F48D12F92556",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4801",
+              "hash": "de537c7af2addde940464e013111c67de7794dc9",
+              "datavalue": { "value": "iso639-1/ak", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$645F0417-050F-4F76-AA1F-DCD80ED62DBF",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4801",
+              "hash": "b3943c0fffced93e129e07871ca42a1bf6575367",
+              "datavalue": { "value": "iso639-2/aka", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$5C4C0404-73CF-41DE-8B14-A3FCCA9211F6",
+            "rank": "normal"
+          }
+        ],
+        "P3823": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3823",
+              "hash": "08dd5661fd449d1a1ec73289f85d047b7ed25cb3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 29051549,
+                  "id": "Q29051549"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$D8477F4B-5A71-4C21-8F40-FC747E59D7BA",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1018ef8e3eb6cc3f888716671c64b686967aea13",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "375610daaf9b20dda81cd83553d79636108b64cb",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 14790,
+                          "id": "Q14790"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "02f847ace2885e56ef89186fe9e65776dfd4eb44",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-05-10T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "8b711853ffcf2ee4bc1298113105835a0b51026a",
+                      "datavalue": {
+                        "value": "https://www.ethnologue.com/language/aka",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P813", "P854"]
+              }
+            ]
+          }
+        ],
+        "P1251": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1251",
+              "hash": "395827b0e8bf71d3f0904bad1dfb175fd0937538",
+              "datavalue": { "value": "9203", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$72402C3C-1723-4AD4-B04E-FE2431D2C645",
+            "rank": "normal"
+          }
+        ],
+        "P1014": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1014",
+              "hash": "381f739d050a9df4b2851e30365013de4c383281",
+              "datavalue": { "value": "300387794", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$E51D0963-20D7-47FB-AE7D-5986059B8B9D",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "99d3977c7f1cef8fba49c1ab6fa99c2fa20a7f04",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 117,
+                  "id": "Q117"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$19C80F28-0701-44A2-B42A-4638096549DC",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "eb358b8715b2fc49332b8bd90e062015298aa3c2",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "113ba95920fbafd41289c2f4e032a2254c366a6f",
+                      "datavalue": {
+                        "value": "https://scriptsource.org/country/GH",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "16b6c41f9eed463a23404d1ee3ee09986bb727e7",
+                      "datavalue": {
+                        "value": {
+                          "text": "ScriptSource - Ghana",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "327accd187ce84d5bce190a38dfefee3e40eb6e9",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2023-08-21T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P854", "P1476", "P813"]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "c0c459c0b42cd42b2cb24dd1ac6c434070cd87e2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1008,
+                  "id": "Q1008"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$ae89b1bd-4d59-5c87-d2dc-67832107df3a",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "f23c3bb8c208d6ce8d23f42f9fbea33c71b57fe6",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "6a164248fc96bfa583bbb495cb63ae6401ec203c",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 206855,
+                          "id": "Q206855"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "f460d371823560752a1a2bc49d6a8b964c1d1cd1",
+                      "datavalue": {
+                        "value": "https://ru.wikipedia.org/?oldid=99456636",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143", "P4656"]
+              }
+            ]
+          }
+        ],
+        "P2341": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2341",
+              "hash": "8222fbba8cbc816dfdde3a3fa451bdfa179e2862",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 117,
+                  "id": "Q117"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$345E5CAC-8D95-4D4D-AE75-1A5961E3617F",
+            "rank": "normal"
+          }
+        ],
+        "P2888": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2888",
+              "hash": "91daece0699db7fcca51557880b099767cebcdda",
+              "datavalue": {
+                "value": "http://publications.europa.eu/resource/authority/language/AKA",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q28026$07E147CC-D008-440E-8485-281EF46AEF95",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "56b370ad342ff9d47a4119b3f53f894995cea4b7",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "27fbd18e13a0a2c1e2ae172bfbfc66577ffb38a2",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 75488338,
+                          "id": "Q75488338"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "68a06f5f5ab362597f2d12e45856619795420364",
+                      "datavalue": {
+                        "value": "https://op.europa.eu/web/eu-vocabularies/at-dataset/-/resource/dataset/language",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P854"]
+              }
+            ]
+          }
+        ],
+        "P8408": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8408",
+              "hash": "b03202015c78e3cec4a904a97bcf1629cb3da2f3",
+              "datavalue": { "value": "AkanLanguage", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$04E23C85-7749-4BEF-88DD-8AB9D8C49836",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a681f9dd95c90224547c404e11295f4f7dcf54e",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "9d5780dddffa8746637a9929a936ab6b0f601e24",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 64139102,
+                          "id": "Q64139102"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "622a5a27fa5b25e7e7984974e9db494cf8460990",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-07-09T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P813"]
+              }
+            ]
+          }
+        ],
+        "P9100": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9100",
+              "hash": "18ebcf4aeb127467ff9e4b402ac0915ca3a382e9",
+              "datavalue": { "value": "akan", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$4E315985-DE86-4467-8416-C5A9C37512B8",
+            "rank": "normal"
+          }
+        ],
+        "P9060": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9060",
+              "hash": "fd38cb4ee5a3d9d565ed6f49e51f6b9521a2283f",
+              "datavalue": { "value": "ak", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$0bfdfa40-45df-0b1d-ef30-bbf9f63c73aa",
+            "rank": "normal"
+          }
+        ],
+        "P2347": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2347",
+              "hash": "2ead4988033af601ee1b50d143484a465b476f01",
+              "datavalue": { "value": "38136", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "1dda45b7255af620d4ae9210c544ecd4e2964d07",
+                  "datavalue": { "value": "akanin kieli", "type": "string" },
+                  "datatype": "string"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "b2e4761749fc0c3fd82716ba043b9c0fe70f288f",
+                  "datavalue": {
+                    "value": "akan (spr\u00e5k)",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "2e3d93a20a1d89073787edaeadfb95d5f91cbc38",
+                  "datavalue": { "value": "Akan language", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1810"],
+            "id": "Q28026$BF1141AD-F5C2-4E51-B29E-DD7554FEB369",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "6b6469e980a5181745de94f463799975c2df4fb2",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "7133f11674741f52cadaae6029068fad9cbb52e3",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 89345680,
+                          "id": "Q89345680"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "edd2b49fd88fc1a02bf792dbd8fa8739c9fb3475",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-01-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P813"]
+              }
+            ]
+          }
+        ],
+        "P10369": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P10369",
+              "hash": "bc4a2d617b7c6812c5d0b2277ab613ec6d71f0a8",
+              "datavalue": { "value": "Q152", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$8E816AB1-FFC2-4E26-8660-E3DE2E3DDE20",
+            "rank": "normal"
+          }
+        ],
+        "P10422": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P10422",
+              "hash": "198315accfecb3546f6eb3efaa7d9497cf28e9c4",
+              "datavalue": {
+                "value": "https://sites.google.com/site/ghanaplacenames/languages-locations/akan",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q28026$41eaaccb-4f3b-d7e3-0629-bdfa7c02cca7",
+            "rank": "normal"
+          }
+        ],
+        "P1098": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1098",
+              "hash": "6a527bf7aebf012ff633dd290d9c2c9815de991d",
+              "datavalue": {
+                "value": { "amount": "+11000000", "unit": "1" },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P518": [
+                {
+                  "snaktype": "value",
+                  "property": "P518",
+                  "hash": "6652d2e7162a4ef911150cf3e06e9f9059465c3e",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 36870,
+                      "id": "Q36870"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "4b8b0672c38a4a213d3ddf5553b775988e65ace9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2007-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": ["P518", "P585"],
+            "id": "Q28026$0F7E2DC5-D6F3-44A4-941E-E7A73EEA19E6",
+            "rank": "preferred",
+            "references": [
+              {
+                "hash": "f6a673adb81a6eb39d527a24c373cd0aa6a1d88f",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "2cc654324c032b2005270d29bcb82ba8902257e4",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 1165538,
+                          "id": "Q1165538"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P3452": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3452",
+                      "hash": "6faa13fe6145937fc86ece26b066ba875263a3a4",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 4319,
+                          "id": "Q4319"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "105a5aa697c4d1d9f1212018cbb9404996522da0",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-04-24T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P3452", "P813"]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1098",
+              "hash": "d4efff79fc2dfc12d3954f86df04132e381c6ef0",
+              "datavalue": {
+                "value": { "amount": "+8314600", "unit": "1" },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "ba4e903e603892e17bd9796e98b823725cab176a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2004-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": ["P585"],
+            "id": "Q28026$a36b7524-40fc-860b-03ce-d4d6bd26fa29",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "b096ce736246deae93782819465859680c66015c",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "375610daaf9b20dda81cd83553d79636108b64cb",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 14790,
+                          "id": "Q14790"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248"]
+              }
+            ]
+          }
+        ],
+        "P11012": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P11012",
+              "hash": "36c48fb1ec98291305e6e9348c447c9d23f8f6b9",
+              "datavalue": { "value": "Q2472718", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$5CD05425-7654-4005-8984-972B4727BCE9",
+            "rank": "normal"
+          }
+        ],
+        "P8814": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8814",
+              "hash": "beba27d7be3e81a2ed0f69244dff23464a92bb93",
+              "datavalue": { "value": "07010146-n", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q28026$FF46C110-08D6-44F1-8799-D7E317334BCB",
+            "rank": "normal"
+          }
+        ],
+        "P527": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "a0b00aa6b654647cfaee2ddb43b6fc038bbb1bb2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 35570,
+                  "id": "Q35570"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$33bd6cac-4fa2-0c6d-b068-55c75225a7b9",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "e5f58fbd5c10c472852b920f01496be09358062b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 36850,
+                  "id": "Q36850"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$33b5d5fd-4f07-df75-e67a-d69efebfee74",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "9e24122d10630113a98a9b494ccef845fe6bfda2",
+              "datavalue": { "value": "Akan language", "type": "string" },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q28026$1422627a-4608-ca72-7abb-ab5670a3d798",
+            "rank": "normal"
+          }
+        ],
+        "P6104": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6104",
+              "hash": "c33fd302d754792db34c62315d4c665f01234398",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 112898263,
+                  "id": "Q112898263"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q28026$BCAB217A-CFD1-4CB9-B409-451F8492F4E4",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "afwiki": {
+          "site": "afwiki",
+          "title": "Akan",
+          "badges": [],
+          "url": "https://af.wikipedia.org/wiki/Akan"
+        },
+        "anpwiki": {
+          "site": "anpwiki",
+          "title": "\u0905\u0915\u0928 \u092d\u093e\u0937\u093e",
+          "badges": [],
+          "url": "https://anp.wikipedia.org/wiki/%E0%A4%85%E0%A4%95%E0%A4%A8_%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE"
+        },
+        "arwiki": {
+          "site": "arwiki",
+          "title": "\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0623\u0643\u0627\u0646\u064a\u0629",
+          "badges": [],
+          "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D9%86%D9%8A%D8%A9"
+        },
+        "arzwiki": {
+          "site": "arzwiki",
+          "title": "\u0627\u0644\u0627\u0643\u0627\u0646\u064a\u0647",
+          "badges": [],
+          "url": "https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%83%D8%A7%D9%86%D9%8A%D9%87"
+        },
+        "astwiki": {
+          "site": "astwiki",
+          "title": "Llingua Ak\u00e1n",
+          "badges": [],
+          "url": "https://ast.wikipedia.org/wiki/Llingua_Ak%C3%A1n"
+        },
+        "azbwiki": {
+          "site": "azbwiki",
+          "title": "\u0627\u06a9\u0627\u0646\u06cc \u062f\u06cc\u0644\u06cc",
+          "badges": [],
+          "url": "https://azb.wikipedia.org/wiki/%D8%A7%DA%A9%D8%A7%D9%86%DB%8C_%D8%AF%DB%8C%D9%84%DB%8C"
+        },
+        "azwiki": {
+          "site": "azwiki",
+          "title": "Akan dili",
+          "badges": [],
+          "url": "https://az.wikipedia.org/wiki/Akan_dili"
+        },
+        "brwiki": {
+          "site": "brwiki",
+          "title": "Akaneg",
+          "badges": [],
+          "url": "https://br.wikipedia.org/wiki/Akaneg"
+        },
+        "cawiki": {
+          "site": "cawiki",
+          "title": "\u00c0kan",
+          "badges": [],
+          "url": "https://ca.wikipedia.org/wiki/%C3%80kan"
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Akan\u0161tina",
+          "badges": [],
+          "url": "https://cs.wikipedia.org/wiki/Akan%C5%A1tina"
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Akan-Sprachen",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/Akan-Sprachen"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Akan languages",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Akan_languages"
+        },
+        "eowiki": {
+          "site": "eowiki",
+          "title": "Akana lingvo",
+          "badges": [],
+          "url": "https://eo.wikipedia.org/wiki/Akana_lingvo"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Lenguas ak\u00e1nicas",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Lenguas_ak%C3%A1nicas"
+        },
+        "etwiki": {
+          "site": "etwiki",
+          "title": "Akani keel",
+          "badges": [],
+          "url": "https://et.wikipedia.org/wiki/Akani_keel"
+        },
+        "fawiki": {
+          "site": "fawiki",
+          "title": "\u0632\u0628\u0627\u0646 \u0627\u06a9\u0627\u0646\u06cc",
+          "badges": [],
+          "url": "https://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86_%D8%A7%DA%A9%D8%A7%D9%86%DB%8C"
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Akanin kieli",
+          "badges": [],
+          "url": "https://fi.wikipedia.org/wiki/Akanin_kieli"
+        },
+        "frrwiki": {
+          "site": "frrwiki",
+          "title": "Akan spriaken",
+          "badges": [],
+          "url": "https://frr.wikipedia.org/wiki/Akan_spriaken"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Akan (langue)",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/Akan_(langue)"
+        },
+        "glwiki": {
+          "site": "glwiki",
+          "title": "Lingua akan",
+          "badges": [],
+          "url": "https://gl.wikipedia.org/wiki/Lingua_akan"
+        },
+        "gvwiki": {
+          "site": "gvwiki",
+          "title": "Akanish",
+          "badges": [],
+          "url": "https://gv.wikipedia.org/wiki/Akanish"
+        },
+        "hawiki": {
+          "site": "hawiki",
+          "title": "Yaren Akan",
+          "badges": [],
+          "url": "https://ha.wikipedia.org/wiki/Yaren_Akan"
+        },
+        "hifwiki": {
+          "site": "hifwiki",
+          "title": "Akan language",
+          "badges": [],
+          "url": "https://hif.wikipedia.org/wiki/Akan_language"
+        },
+        "hrwiki": {
+          "site": "hrwiki",
+          "title": "Akan jezik",
+          "badges": [],
+          "url": "https://hr.wikipedia.org/wiki/Akan_jezik"
+        },
+        "hywiki": {
+          "site": "hywiki",
+          "title": "\u0531\u056f\u0561\u0576 (\u056c\u0565\u0566\u0578\u0582)",
+          "badges": [],
+          "url": "https://hy.wikipedia.org/wiki/%D4%B1%D5%AF%D5%A1%D5%B6_(%D5%AC%D5%A5%D5%A6%D5%B8%D6%82)"
+        },
+        "igwiki": {
+          "site": "igwiki",
+          "title": "Akan language",
+          "badges": [],
+          "url": "https://ig.wikipedia.org/wiki/Akan_language"
+        },
+        "ilowiki": {
+          "site": "ilowiki",
+          "title": "Pagsasao nga Akan",
+          "badges": [],
+          "url": "https://ilo.wikipedia.org/wiki/Pagsasao_nga_Akan"
+        },
+        "iswiki": {
+          "site": "iswiki",
+          "title": "Akanm\u00e1l",
+          "badges": [],
+          "url": "https://is.wikipedia.org/wiki/Akanm%C3%A1l"
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Lingua akan",
+          "badges": [],
+          "url": "https://it.wikipedia.org/wiki/Lingua_akan"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u30a2\u30ab\u30f3\u8a9e",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%B3%E8%AA%9E"
+        },
+        "kbpwiki": {
+          "site": "kbpwiki",
+          "title": "Aka\u014b k\u028bn\u028b\u014b",
+          "badges": [],
+          "url": "https://kbp.wikipedia.org/wiki/Aka%C5%8B_k%CA%8Bn%CA%8B%C5%8B"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\uc544\uce78\uc5b4",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%B9%B8%EC%96%B4"
+        },
+        "kvwiki": {
+          "site": "kvwiki",
+          "title": "\u0410\u043a\u0430\u043d (\u043a\u044b\u0432)",
+          "badges": [],
+          "url": "https://kv.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%BD_(%D0%BA%D1%8B%D0%B2)"
+        },
+        "ltwiki": {
+          "site": "ltwiki",
+          "title": "Akan\u0173 kalba",
+          "badges": [],
+          "url": "https://lt.wikipedia.org/wiki/Akan%C5%B3_kalba"
+        },
+        "lvwiki": {
+          "site": "lvwiki",
+          "title": "Akanu valodas",
+          "badges": [],
+          "url": "https://lv.wikipedia.org/wiki/Akanu_valodas"
+        },
+        "mgwiki": {
+          "site": "mgwiki",
+          "title": "Fiteny ak\u00e0na",
+          "badges": [],
+          "url": "https://mg.wikipedia.org/wiki/Fiteny_ak%C3%A0na"
+        },
+        "mkwiki": {
+          "site": "mkwiki",
+          "title": "\u0410\u043a\u0430\u043d\u0441\u043a\u0438 \u0458\u0430\u0437\u0438\u043a",
+          "badges": [],
+          "url": "https://mk.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA"
+        },
+        "mlwiki": {
+          "site": "mlwiki",
+          "title": "\u0d05\u0d15\u0d3e\u0d7b \u0d2d\u0d3e\u0d37",
+          "badges": [],
+          "url": "https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%95%E0%B4%BE%E0%B5%BB_%E0%B4%AD%E0%B4%BE%E0%B4%B7"
+        },
+        "mznwiki": {
+          "site": "mznwiki",
+          "title": "\u0627\u06a9\u0627\u0646\u06cc",
+          "badges": [],
+          "url": "https://mzn.wikipedia.org/wiki/%D8%A7%DA%A9%D8%A7%D9%86%DB%8C"
+        },
+        "nlwiki": {
+          "site": "nlwiki",
+          "title": "Akan (taal)",
+          "badges": [],
+          "url": "https://nl.wikipedia.org/wiki/Akan_(taal)"
+        },
+        "nnwiki": {
+          "site": "nnwiki",
+          "title": "Akan",
+          "badges": [],
+          "url": "https://nn.wikipedia.org/wiki/Akan"
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Akan",
+          "badges": [],
+          "url": "https://no.wikipedia.org/wiki/Akan"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "J\u0119zyk akan",
+          "badges": [],
+          "url": "https://pl.wikipedia.org/wiki/J%C4%99zyk_akan"
+        },
+        "pmswiki": {
+          "site": "pmswiki",
+          "title": "Lenga Akan",
+          "badges": [],
+          "url": "https://pms.wikipedia.org/wiki/Lenga_Akan"
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "L\u00edngua ac\u00e3",
+          "badges": [],
+          "url": "https://pt.wikipedia.org/wiki/L%C3%ADngua_ac%C3%A3"
+        },
+        "quwiki": {
+          "site": "quwiki",
+          "title": "Akan simi",
+          "badges": [],
+          "url": "https://qu.wikipedia.org/wiki/Akan_simi"
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "\u0410\u043a\u0430\u043d",
+          "badges": [],
+          "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%BD"
+        },
+        "satwiki": {
+          "site": "satwiki",
+          "title": "\u1c5f\u1c60\u1c5f\u1c71 \u1c6f\u1c5f\u1c79\u1c68\u1c65\u1c64",
+          "badges": [],
+          "url": "https://sat.wikipedia.org/wiki/%E1%B1%9F%E1%B1%A0%E1%B1%9F%E1%B1%B1_%E1%B1%AF%E1%B1%9F%E1%B1%B9%E1%B1%A8%E1%B1%A5%E1%B1%A4"
+        },
+        "sgwiki": {
+          "site": "sgwiki",
+          "title": "Ak\u00e2an",
+          "badges": [],
+          "url": "https://sg.wikipedia.org/wiki/Ak%C3%A2an"
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Akan language",
+          "badges": [],
+          "url": "https://simple.wikipedia.org/wiki/Akan_language"
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Akan (spr\u00e5k)",
+          "badges": [],
+          "url": "https://sv.wikipedia.org/wiki/Akan_(spr%C3%A5k)"
+        },
+        "swwiki": {
+          "site": "swwiki",
+          "title": "Kiakan",
+          "badges": [],
+          "url": "https://sw.wikipedia.org/wiki/Kiakan"
+        },
+        "tawiki": {
+          "site": "tawiki",
+          "title": "\u0b85\u0b95\u0ba9 \u0bae\u0bca\u0bb4\u0bbf",
+          "badges": [],
+          "url": "https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%95%E0%AE%A9_%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF"
+        },
+        "tlwiki": {
+          "site": "tlwiki",
+          "title": "Wikang Akan",
+          "badges": [],
+          "url": "https://tl.wikipedia.org/wiki/Wikang_Akan"
+        },
+        "ttwiki": {
+          "site": "ttwiki",
+          "title": "\u0410\u043a\u0430\u043d \u0442\u0435\u043b\u0435",
+          "badges": [],
+          "url": "https://tt.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%BD_%D1%82%D0%B5%D0%BB%D0%B5"
+        },
+        "twwiki": {
+          "site": "twwiki",
+          "title": "Akan",
+          "badges": [],
+          "url": "https://tw.wikipedia.org/wiki/Akan"
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "\u0410\u043a\u0430\u043d (\u043c\u043e\u0432\u0430)",
+          "badges": [],
+          "url": "https://uk.wikipedia.org/wiki/%D0%90%D0%BA%D0%B0%D0%BD_(%D0%BC%D0%BE%D0%B2%D0%B0)"
+        },
+        "urwiki": {
+          "site": "urwiki",
+          "title": "\u0627\u06a9\u0627\u0646 \u0632\u0628\u0627\u0646",
+          "badges": [],
+          "url": "https://ur.wikipedia.org/wiki/%D8%A7%DA%A9%D8%A7%D9%86_%D8%B2%D8%A8%D8%A7%D9%86"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "Ti\u1ebfng Akan",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Akan"
+        },
+        "wuuwiki": {
+          "site": "wuuwiki",
+          "title": "\u963f\u80af\u8bed",
+          "badges": [],
+          "url": "https://wuu.wikipedia.org/wiki/%E9%98%BF%E8%82%AF%E8%AF%AD"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u963f\u574e\u8bed",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%9D%8E%E8%AF%AD"
+        }
+      }
+    }
+  }
+}

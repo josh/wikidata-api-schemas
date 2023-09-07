@@ -1,0 +1,8 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/test/data-value-monolingualtexts/test.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "$ref": "../../data-value.schema.json#monolingualtext"
+  }
+}

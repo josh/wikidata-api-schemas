@@ -1,0 +1,98 @@
+openapi: 3.1.0
+
+info:
+  title: Wikidata Linked Data Interface
+  version: 1.0.0
+
+externalDocs:
+  url: https://www.wikidata.org/wiki/Wikidata:Data_access
+
+servers:
+  - url: https://www.wikidata.org
+
+paths:
+  /wiki/Special:EntityData/Q{id}:
+    get:
+      operationId: getItem
+      summary: Retrieve a single Wikibase Item by ID
+      parameters:
+        - in: path
+          name: id
+          required: true
+          description: The ID of the required Item
+          schema:
+            type: number
+            format: integer
+            minimum: 1
+            example: 42
+        - in: query
+          name: flavor
+          required: false
+          schema:
+            type: string
+            enum: [dump, simple, full]
+            default: full
+        - in: query
+          name: revision
+          required: false
+          schema:
+            type: number
+            format: integer
+            example: 1600533266
+      responses:
+        "200":
+          description: A Wikibase Item
+          content:
+            text/html: {}
+            application/json:
+              schema:
+                type: object
+                properties:
+                  entities:
+                    $ref: "./item.schema.json#/$defs/group"
+            application/rdf+xml: {}
+            text/turtle: {}
+            application/n-triples: {}
+            application/ld+json: {}
+
+  /wiki/Special:EntityData/P{id}:
+    get:
+      operationId: getProperty
+      summary: Retrieve a single Wikibase Property by ID
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: number
+            format: integer
+            minimum: 1
+            example: 31
+        - in: query
+          name: flavor
+          required: false
+          schema:
+            type: string
+            enum: [dump, simple, full]
+            default: full
+        - in: query
+          name: revision
+          required: false
+          schema:
+            type: number
+            format: integer
+      responses:
+        "200":
+          description: A Wikibase Property
+          content:
+            text/html: {}
+            application/json:
+              schema:
+                type: object
+                properties:
+                  entities:
+                    $ref: "./property.schema.json#/$defs/group"
+            application/rdf+xml: {}
+            text/turtle: {}
+            application/n-triples: {}
+            application/ld+json: {}

@@ -1,0 +1,208 @@
+{
+  "entities": {
+    "Q1020275": {
+      "pageid": 969648,
+      "ns": 0,
+      "title": "Q1020275",
+      "lastrevid": 1912295537,
+      "modified": "2023-06-10T14:42:36Z",
+      "type": "item",
+      "id": "Q1020275",
+      "labels": {},
+      "descriptions": {
+        "en": { "language": "en", "value": "mountain" },
+        "en-gb": { "language": "en-gb", "value": "mountain in Iceland" },
+        "ar": {
+          "language": "ar",
+          "value": "\u062c\u0628\u0644 \u0641\u064a \u0622\u064a\u0633\u0644\u0646\u062f\u0627"
+        },
+        "en-ca": { "language": "en-ca", "value": "mountain in Iceland" },
+        "sq": { "language": "sq", "value": "mal" },
+        "uk": { "language": "uk", "value": "\u0433\u043e\u0440\u0430" },
+        "bn": { "language": "bn", "value": "\u09aa\u09b0\u09cd\u09ac\u09a4" }
+      },
+      "aliases": {},
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "69c35f1d8f0c3d978c474f436ae5ccccc068f7c6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8502,
+                  "id": "Q8502"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "q1020275$157DC40C-3F1A-4579-B71F-15191B41A08F",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "ea726b3c17d773b347226301e7878e16fe82cf22",
+              "datavalue": {
+                "value": {
+                  "latitude": 64.3075,
+                  "longitude": -21.22444444,
+                  "altitude": null,
+                  "precision": 0.00027777777777778,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q1020275$913E7F66-FC3A-476A-BF87-9D1EDA6EFAAD",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P2044": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2044",
+              "hash": "43d722f349b52503bf3c6b164eb54344454ca33b",
+              "datavalue": {
+                "value": {
+                  "amount": "+783",
+                  "unit": "http://www.wikidata.org/entity/Q11573"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q1020275$0F5ACF5A-82DF-4462-80A3-4D6DD23CB4A3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "6cc5ac795fa1e8db18e5ac5c615ecc0c229c2a12",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 189,
+                  "id": "Q189"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1020275$7423B5B3-E75D-44C6-BB39-E85291767281",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "9c1809e3eea1dc68e240897db0d5ded98ec92d2e",
+              "datavalue": { "value": "/g/122_rwkg", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1020275$819B1510-4C93-44CD-AA31-96E8F304A2FE",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "B\u00farfell (\u00deingvallasveit)",
+          "badges": [],
+          "url": "https://de.wikipedia.org/wiki/B%C3%BArfell_(%C3%9Eingvallasveit)"
+        }
+      }
+    }
+  }
+}

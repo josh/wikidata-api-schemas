@@ -1,0 +1,194 @@
+{
+  "head": {
+    "vars": ["prop", "value"]
+  },
+  "results": {
+    "bindings": [
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P31"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21281405"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P368"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandbox%20with%20toys%20on%20R%C3%B6e%20g%C3%A5rd%201.jpg"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P369"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4115189"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P370"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Hello world!"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P578"
+        },
+        "value": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-10-29T00:00:00Z"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P626"
+        },
+        "value": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "type": "literal",
+          "value": "Point(-3.6736 40.3929)"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P855"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://example.com/"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1106"
+        },
+        "value": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "123"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P1450"
+        },
+        "value": {
+          "xml:lang": "fi",
+          "type": "literal",
+          "value": "hiekkalaatikko"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2368"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/P2368"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2535"
+        },
+        "value": {
+          "datatype": "http://www.w3.org/1998/Math/MathML",
+          "type": "literal",
+          "value": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle a^{2}+b^{2}=c^{2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mi>a</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mo>+</mo>\n        <msup>\n          <mi>b</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mo>=</mo>\n        <msup>\n          <mi>c</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle a^{2}+b^{2}=c^{2}}</annotation>\n  </semantics>\n</math>"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P2536"
+        },
+        "value": {
+          "type": "literal",
+          "value": "12345"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P4045"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/data/main/Data:Sandbox/TheDJ/DJ.tab"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P4047"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/data/main/Data:Neighbourhoods/New+York+City.map"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5188"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L123"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5189"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L229416-F1"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P5979"
+        },
+        "value": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/L229416-S2"
+        }
+      },
+      {
+        "prop": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/prop/direct/P6604"
+        },
+        "value": {
+          "type": "literal",
+          "value": "\\relative c' { c d e f | g2 g | a4 a a a | g1 |}"
+        }
+      }
+    ]
+  }
+}

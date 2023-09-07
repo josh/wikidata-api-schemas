@@ -1,0 +1,17 @@
+{
+  "head": {
+    "vars": ["value"]
+  },
+  "results": {
+    "bindings": [
+      {
+        "value": {
+          "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Point(13.34722222 52.53916667)"
+        }
+      }
+    ]
+  }
+}

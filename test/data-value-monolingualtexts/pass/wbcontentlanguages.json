@@ -1,0 +1,4748 @@
+[
+  {
+    "value": {
+      "language": "aa",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ab",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "abe",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "abq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "abq-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "abs",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ace",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "acm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ady",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ady-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "aeb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "aeb-arab",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "aeb-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "aec",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "af",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "agq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "alc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "aln",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "alq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "als",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "alt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "am",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ami",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "an",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ang",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ann",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "anp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "apc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ar",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "arc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "arn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "arq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ary",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "arz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "as",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ase",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ast",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "atj",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "av",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "avk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "awa",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ay",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "az",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "azb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ba",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bag",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ban",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ban-bali",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bar",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bas",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bax",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bbc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bbc-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bbj",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bcc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bci",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bcl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bdr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "be",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "be-tarask",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bew",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bfd",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bgn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bho",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bjn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bkc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bkh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bkm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "blk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bnn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bpy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bqi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bqz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "br",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "brh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "brx",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bs",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "btm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bto",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bug",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bxr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "byv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "bzs",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ca",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cak",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cal",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cbk-zam",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ccp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cdo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cdo-hani",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ce",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ceb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ch",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "chn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cho",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "chr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "chy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ckb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ckt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "clc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cmg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cnh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cnr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "co",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cop",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cps",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cpx",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cpx-hans",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cpx-hant",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cpx-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "crb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "crh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "crh-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "crh-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "crh-ro",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "crl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cs",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "csb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "cy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "da",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "dag",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "de",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "de-at",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "de-ch",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "dga",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "din",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "diq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "dru",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "dsb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "dtp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "dty",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "dua",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "dv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "dz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ee",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "egl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "el",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "el-cy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "eml",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "en",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "en-au",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "en-ca",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "en-gb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "en-in",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "en-us",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "enm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "eo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "es",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "es-419",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "et",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "eto",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ett",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "etu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "eu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ewo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ext",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "eya",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fa",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fat",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ff",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fit",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fj",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fkv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fmp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fon",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fos",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fr-ca",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "frc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "frm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fro",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "frp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "frr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fud",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fuf",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fur",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "fy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ga",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gaa",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gag",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gan",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gan-hans",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gan-hant",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gcr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gd",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gez",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gil",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gld",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "glk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gmh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gml",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gmy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gom",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gom-deva",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gom-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gor",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "got",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gpe",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "grc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gsw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gsw-fr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "guc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gur",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "guw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "gya",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ha",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hai",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hak",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hak-hans",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hak-hant",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "haw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "haz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hbo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "he",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hif",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hif-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hil",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hno",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ho",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hrx",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hsb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hsn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ht",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hyw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "hz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ia",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "id",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ie",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ig",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "igl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ii",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ik",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ike-cans",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ike-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ilo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "inh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "io",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "is",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "isu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "it",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "iu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ja",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ja-hani",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ja-hira",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ja-hrkt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ja-kana",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "jam",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "jbo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "jut",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "jv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ka",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kaa",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kab",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kbd",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kbd-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kbp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kcg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kea",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ker",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "khw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ki",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kiu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kj",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kjh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kjp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kk-arab",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kk-cn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kk-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kk-kz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kk-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kk-tr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kld",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "km",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ko",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ko-kp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "koi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "koy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "krc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kri",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "krj",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "krl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ks",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ks-arab",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ks-deva",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ksf",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ksh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ksw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ku",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ku-arab",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ku-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kum",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kus",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "kw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ky",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "la",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lad",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lag",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lbe",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lcm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lem",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lez",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lfn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "li",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lij",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lij-mc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "liv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lki",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lkt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lld",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lmo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ln",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lns",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "loz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lrc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ltg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lus",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "luz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lzh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "lzz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mad",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mag",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mai",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "map-bms",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mcn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mcp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mdf",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mfa",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mhr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mic",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mid",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "min",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mis",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ml",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mnc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mni",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mnw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "moe",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mos",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mrh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mrj",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ms",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ms-arab",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mua",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mul",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mus",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mwl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "my",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "myv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "mzn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "na",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nah",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nan",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nan-hani",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nap",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nds",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nds-nl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ne",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "new",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ng",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nge",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nia",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "niu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nla",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nmg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nmz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nnh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nnz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "no",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nod",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nog",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "non",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "non-runr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nov",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nqo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nrf-gg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nrf-je",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nrm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nsk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nso",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nxm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ny",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nyn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "nys",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "obt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "oc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "oj",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ojb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ojp",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ojp-hani",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ojp-hira",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "olo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "om",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "oma",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ood",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "or",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "os",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "osa-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ota",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "otk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pa",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pag",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pam",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pap",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pap-aw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pcd",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pcm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pdc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pdt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "peo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pfl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "phn-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "phn-phnx",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pi-sidd",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pih",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pjt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pms",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pnb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pnt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ppu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pqm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "prg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ps",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pt-br",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pwn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "pyu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "qu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "quc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "qug",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "qya",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rah",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rar",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rgn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rif",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rki",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rm-puter",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rm-rumgr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rm-surmiran",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rm-sursilv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rm-sutsilv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rm-vallader",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rmc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rmf",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rmy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ro",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "roa-tara",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rsk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ru",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rue",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rup",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ruq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ruq-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ruq-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "rwr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ryu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sa",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sa-sidd",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sah",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sat",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "scn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sco",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sd",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sdc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sdh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "se",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "se-fi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "se-no",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "se-se",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sei",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ser",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ses",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sgs",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sh-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sh-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "shi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "shi-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "shi-tfng",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "shn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "shy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "shy-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "si",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sia",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sjd",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sje",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sjk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sjn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sjt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sju",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "skr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "skr-arab",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sli",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sma",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "smj",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "smn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sms",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "so",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sr-ec",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sr-el",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "srn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sro",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "srq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ss",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ssf",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "st",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sth",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "stq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sty",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "su",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "sw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "syc",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "syl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "szl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "szy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ta",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tay",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tcy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tdd",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "te",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tet",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tg-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tg-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "th",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ti",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tlb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tli",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tly",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tly-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tnq",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "to",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tok",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tpi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tpv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tr",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tru",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "trv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ts",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tt",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tt-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tt-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tum",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tvu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "txg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ty",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tyv",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tzl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "tzm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "udm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ug",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ug-arab",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ug-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "uga",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "uk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "umu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "und",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ur",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "uun",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "uz",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "uz-cyrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "uz-latn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ve",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vec",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vep",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vls",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vmf",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vmw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vot",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vro",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "vut",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "wa",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "wal",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "war",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "wes",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "wls",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "wo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "wuu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "wuu-hans",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "wuu-hant",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "wya",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "xal",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "xbm",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "xh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "xmf",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "xpu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "xsu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "xsy",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yap",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yas",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yat",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yav",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ybb",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yec",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yi",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "ykg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yrl",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yue",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yue-hans",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "yue-hant",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "za",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zea",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zgh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zh",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zh-cn",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zh-hans",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zh-hant",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zh-hk",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zh-mo",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zh-my",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zh-sg",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zh-tw",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zu",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zun",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  },
+  {
+    "value": {
+      "language": "zxx",
+      "text": "foo"
+    },
+    "type": "monolingualtext"
+  }
+]

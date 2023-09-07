@@ -1,0 +1,365 @@
+{
+  "type": "lexeme",
+  "id": "L1037",
+  "lemmas": {
+    "ms": { "language": "ms", "value": "air" },
+    "ms-arab": { "language": "ms-arab", "value": "\u0627\u0621\u064a\u0631" },
+    "ms-x-Q106560061": { "language": "ms-x-Q106560061", "value": "ayer" },
+    "ms-arab-x-q106560092": {
+      "language": "ms-arab-x-q106560092",
+      "value": "\u0627\u064a\u0631"
+    }
+  },
+  "lexicalCategory": "Q1084",
+  "language": "Q9237",
+  "claims": {
+    "P1343": [
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 42188923,
+              "id": "Q42188923"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P304": [
+            {
+              "snaktype": "value",
+              "property": "P304",
+              "hash": "89345fc3502fc1bef8da95a557574f7a59bbfb23",
+              "datavalue": { "value": "26", "type": "string" },
+              "datatype": "string"
+            }
+          ],
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "c1735fe7f1e0cc1e4ee4015af89f21f52b19c850",
+              "datavalue": { "value": "\u0622\u064a\u0631", "type": "string" },
+              "datatype": "string"
+            },
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "f8c616fec72ff5efc0d9300aba87782892cb43d4",
+              "datavalue": { "value": "\u0101yer", "type": "string" },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": ["P304", "P1810"],
+        "id": "L1037$fc783e54-47f7-086a-09ac-3ebbd3478d19",
+        "rank": "normal"
+      },
+      {
+        "mainsnak": {
+          "snaktype": "value",
+          "property": "P1343",
+          "datavalue": {
+            "value": {
+              "entity-type": "item",
+              "numeric-id": 107978278,
+              "id": "Q107978278"
+            },
+            "type": "wikibase-entityid"
+          },
+          "datatype": "wikibase-item"
+        },
+        "type": "statement",
+        "qualifiers": {
+          "P304": [
+            {
+              "snaktype": "value",
+              "property": "P304",
+              "hash": "9ff23c1811bf935b5e4d6a238fd9ea3762f8efbf",
+              "datavalue": { "value": "27", "type": "string" },
+              "datatype": "string"
+            }
+          ],
+          "P1810": [
+            {
+              "snaktype": "value",
+              "property": "P1810",
+              "hash": "646c7170b3da19472e8bc53bdab3e153840760be",
+              "datavalue": { "value": "air", "type": "string" },
+              "datatype": "string"
+            }
+          ]
+        },
+        "qualifiers-order": ["P304", "P1810"],
+        "id": "L1037$08cc7adb-4343-fb2c-5f86-39ddbc95f750",
+        "rank": "normal"
+      }
+    ]
+  },
+  "forms": [
+    {
+      "id": "L1037-F1",
+      "representations": {
+        "ms": { "language": "ms", "value": "air" },
+        "ms-arab": {
+          "language": "ms-arab",
+          "value": "\u0627\u0621\u064a\u0631"
+        },
+        "ms-x-Q106560061": { "language": "ms-x-Q106560061", "value": "ayer" },
+        "ms-arab-x-q106560092": {
+          "language": "ms-arab-x-q106560092",
+          "value": "\u0627\u064a\u0631"
+        }
+      },
+      "grammaticalFeatures": ["Q131105"],
+      "claims": []
+    }
+  ],
+  "senses": [
+    {
+      "id": "L1037-S1",
+      "glosses": {
+        "ms": {
+          "language": "ms",
+          "value": "cecair hasil persenyawaan dua butir atom hidrogen dengan sebutir atom oksigen"
+        },
+        "en": { "language": "en", "value": "water" },
+        "abs": { "language": "abs", "value": "aer" }
+      },
+      "claims": {
+        "P5137": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5137",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 283,
+                  "id": "Q283"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "L1037-S1$41c103f1-4d8c-f1cf-5d88-83ddbf285032",
+            "rank": "normal"
+          }
+        ],
+        "P5972": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5972",
+              "datavalue": {
+                "value": { "entity-type": "sense", "id": "L6546-S1" },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-sense"
+            },
+            "type": "statement",
+            "id": "L1037-S1$cf504670-40c4-289e-f1d0-2eeafb8061c1",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5972",
+              "datavalue": {
+                "value": { "entity-type": "sense", "id": "L1122520-S1" },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-sense"
+            },
+            "type": "statement",
+            "id": "L1037-S1$a05fb338-4c1b-d9b7-db69-94c260fc0155",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "datavalue": {
+                "value": "Stilles Mineralwasser.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "L1037-S1$D88B69AA-D537-466D-A3FA-2725D5E0026F",
+            "rank": "normal"
+          }
+        ],
+        "P8394": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8394",
+              "datavalue": {
+                "value": { "text": "Aqua", "language": "la" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "508b821546e22f2af18889f9fbaac0e30b0bb5cf",
+                  "datavalue": { "value": "Ayer", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1810"],
+            "id": "L1037-S1$7aa5969b-4d59-3956-a058-b1c82518fa61",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "eea98f49f06b5611d52941264e48fd03abbb76be",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "datavalue": {
+                        "value": "https://www.digitale-sammlungen.de/en/view/bsb10796975?page=12,13",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P304": [
+                    {
+                      "snaktype": "value",
+                      "property": "P304",
+                      "datavalue": { "value": "1", "type": "string" },
+                      "datatype": "string"
+                    }
+                  ]
+                },
+                "snaks-order": ["P854", "P304"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "L1037-S2",
+      "glosses": {
+        "en": { "language": "en", "value": "clear liquid H\u2082O" },
+        "id": { "language": "id", "value": "air" }
+      },
+      "claims": {
+        "P5137": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5137",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 29053744,
+                  "id": "Q29053744"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "L1037-S2$83e8953a-4d5a-b49b-4d3c-fe368d8572b2",
+            "rank": "normal"
+          }
+        ],
+        "P5972": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5972",
+              "datavalue": {
+                "value": { "entity-type": "sense", "id": "L6546-S2" },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-sense"
+            },
+            "type": "statement",
+            "id": "L1037-S2$CB7CD699-A46B-43D2-9353-A63749DC8EF4",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5972",
+              "datavalue": {
+                "value": { "entity-type": "sense", "id": "L8212-S1" },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-sense"
+            },
+            "type": "statement",
+            "id": "L1037-S2$1d67d4ed-4cc5-abed-e36f-858dad43717b",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5972",
+              "datavalue": {
+                "value": { "entity-type": "sense", "id": "L449769-S1" },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-sense"
+            },
+            "type": "statement",
+            "id": "L1037-S2$87962f47-4f4b-deb3-878b-c83f9b5d254d",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5972",
+              "datavalue": {
+                "value": { "entity-type": "sense", "id": "L8347-S1" },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-sense"
+            },
+            "type": "statement",
+            "id": "L1037-S2$ec11eac8-4383-d092-de6a-c6a743bf910d",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5972",
+              "datavalue": {
+                "value": { "entity-type": "sense", "id": "L3302-S1" },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-sense"
+            },
+            "type": "statement",
+            "id": "L1037-S2$4ce37f55-4fea-8486-4eae-34887cdfc2cf",
+            "rank": "normal"
+          }
+        ]
+      }
+    }
+  ],
+  "pageid": 54472324,
+  "ns": 146,
+  "title": "Lexeme:L1037",
+  "lastrevid": 1962353939,
+  "modified": "2023-08-27T12:33:06Z"
+}

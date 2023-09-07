@@ -1,0 +1,7 @@
+name: Lint
+
+on: push
+
+jobs:
+  prettier:
+    uses: josh/workflows/.github/workflows/prettier.yml@main

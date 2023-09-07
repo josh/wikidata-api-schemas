@@ -1,0 +1,164 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/sparql-results.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SPARQL Query Results",
+  "description": "SPARQL 1.1 Query Results JSON Format",
+  "type": "object",
+  "properties": {
+    "head": {
+      "title": "Head",
+      "description": "Gives the variables mentioned in the results.",
+      "type": "object",
+      "properties": {
+        "vars": {
+          "title": "Vars",
+          "description": "An array giving the names of the variables used in the results. These are the projected variables from the query. A variable is not necessarily given a value in every query solution of the results.",
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "link": {
+          "title": "Links",
+          "description": "An array of URIs, as strings, to refer for further information.",
+          "type": "array",
+          "items": { "type": "string", "format": "uri" },
+          "minItems": 1
+        }
+      },
+      "required": ["vars"],
+      "additionalProperties": false
+    },
+    "results": {
+      "title": "Results",
+      "type": "object",
+      "properties": {
+        "bindings": {
+          "title": "Bindings",
+          "type": "array",
+          "items": {
+            "title": "Binding",
+            "type": "object",
+            "additionalProperties": {
+              "title": "RDF Term",
+              "oneOf": [
+                {
+                  "title": "URIRef",
+                  "description": "RDF URI Reference",
+                  "type": "object",
+                  "properties": {
+                    "type": { "const": "uri" },
+                    "value": { "type": "string", "format": "iri" }
+                  },
+                  "required": ["type", "value"],
+                  "additionalProperties": false,
+                  "examples": [
+                    {
+                      "type": "uri",
+                      "value": "http://work.example.org/alice/"
+                    },
+                    { "type": "uri", "value": "mailto:bob@work.example.org" }
+                  ]
+                },
+                {
+                  "title": "Literal",
+                  "description": "RDF Literal",
+                  "type": "object",
+                  "properties": {
+                    "type": { "const": "literal" },
+                    "value": { "type": "string" }
+                  },
+                  "required": ["type", "value"],
+                  "additionalProperties": false,
+                  "examples": [{ "type": "literal", "value": "Alice" }]
+                },
+                {
+                  "title": "Literal With Language Tag",
+                  "description": "RDF Literal with language",
+                  "type": "object",
+                  "properties": {
+                    "type": { "const": "literal" },
+                    "value": { "type": "string" },
+                    "xml:lang": { "type": "string" }
+                  },
+                  "required": ["type", "value", "xml:lang"],
+                  "additionalProperties": false,
+                  "examples": [
+                    { "type": "literal", "value": "Bob", "xml:lang": "en" }
+                  ]
+                },
+                {
+                  "title": "Literal With Datatype",
+                  "description": "RDF Typed Literal with datatype URI",
+                  "type": "object",
+                  "properties": {
+                    "type": { "const": "literal" },
+                    "value": { "type": "string" },
+                    "datatype": { "type": "string", "format": "uri" }
+                  },
+                  "required": ["type", "value", "datatype"],
+                  "additionalProperties": false,
+                  "examples": [
+                    {
+                      "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral",
+                      "type": "literal",
+                      "value": "<p xmlns=\"http://www.w3.org/1999/xhtml\">My name is <b>alice</b></p>"
+                    }
+                  ]
+                },
+                {
+                  "title": "BNode",
+                  "description": "RDF Blank Node label",
+                  "type": "object",
+                  "properties": {
+                    "type": { "const": "bnode" },
+                    "value": { "type": "string" }
+                  },
+                  "required": ["type", "value"],
+                  "additionalProperties": false,
+                  "examples": [{ "type": "bnode", "value": "r1" }]
+                }
+              ]
+            },
+            "minProperties": 1
+          },
+          "minItems": 1
+        }
+      },
+      "required": ["bindings"],
+      "additionalProperties": false
+    }
+  },
+  "required": ["head", "results"],
+  "additionalProperties": false,
+  "examples": [
+    {
+      "head": { "vars": ["book", "title"] },
+      "results": {
+        "bindings": [
+          {
+            "book": { "type": "uri", "value": "http://example.org/book/book3" },
+            "title": {
+              "type": "literal",
+              "value": "Harry Potter and the Prisoner Of Azkaban"
+            }
+          },
+          {
+            "book": { "type": "uri", "value": "http://example.org/book/book2" },
+            "title": {
+              "type": "literal",
+              "value": "Harry Potter and the Chamber of Secrets"
+            }
+          },
+          {
+            "book": { "type": "uri", "value": "http://example.org/book/book1" },
+            "title": {
+              "type": "literal",
+              "value": "Harry Potter and the Philosopher's Stone"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

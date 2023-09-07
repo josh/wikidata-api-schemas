@@ -1,0 +1,71 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/statement.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Statement",
+  "type": "object",
+  "properties": {
+    "type": { "type": "string", "const": "statement" },
+    "id": { "$ref": "#/$defs/id" },
+    "mainsnak": { "$ref": "./snak.schema.json" },
+    "rank": { "$ref": "#/$defs/rank" },
+    "qualifiers": { "$ref": "./snak.schema.json#/$defs/group" },
+    "qualifiers-order": { "$ref": "./property.schema.json#/$defs/id-order" },
+    "references": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/reference" },
+      "minItems": 1
+    }
+  },
+  "required": ["type", "id", "mainsnak", "rank"],
+  "additionalProperties": false,
+  "$defs": {
+    "id": {
+      "$anchor": "id",
+      "title": "Statement ID",
+      "description": "An arbitrary identifier for the Statement, which is unique across the repository",
+      "type": "string",
+      "minLength": 39,
+      "pattern": "^[qQpPlL][1-9][0-9]*(-[fFsS][1-9][0-9]*)?\\$[0-9a-fA-F]{8}(-[0-9a-fA-F]{4}){3}-[0-9a-fA-F]{12}$",
+      "examples": [
+        "q60$5083E43C-228B-4E3E-B82A-4CB20A22A3FB",
+        "P31$696d3f45-4cba-b3db-1648-0da6c3b29380",
+        "L2$93837555-4e58-e5d4-5076-aff7bf110105"
+      ]
+    },
+    "rank": {
+      "$anchor": "rank",
+      "title": "Statement Rank",
+      "$comment": "https://www.wikidata.org/wiki/Help:Ranking",
+      "type": "string",
+      "enum": ["preferred", "normal", "deprecated"],
+      "default": "normal"
+    },
+    "reference": {
+      "$anchor": "reference",
+      "title": "Reference",
+      "description": "References provide provenance/authority information for the main Snak and qualifiers of an individual Statement.",
+      "type": "object",
+      "properties": {
+        "hash": { "$ref": "./snak.schema.json#/$defs/hash" },
+        "snaks": { "$ref": "./snak.schema.json#/$defs/group" },
+        "snaks-order": { "$ref": "./property.schema.json#/$defs/id-order" }
+      },
+      "required": ["hash", "snaks", "snaks-order"],
+      "additionalProperties": false
+    },
+    "group": {
+      "$anchor": "group",
+      "title": "Grouped Statements",
+      "type": "object",
+      "patternProperties": {
+        "^P[1-9][0-9]*$": {
+          "type": "array",
+          "items": { "$ref": "./statement.schema.json" },
+          "minItems": 1
+        }
+      },
+      "minProperties": 0,
+      "additionalProperties": false
+    }
+  }
+}

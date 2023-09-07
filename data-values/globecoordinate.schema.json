@@ -1,0 +1,54 @@
+{
+  "$id": "https://josh.github.io/wikidata-api-schemas/data-values/globecoordinate.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Globe Coordinate Value",
+  "description": "A geographical position given as a latitude-longitude pair for a given 'globe'.",
+  "$comment": "https://www.wikidata.org/wiki/Help:Data_type#globe-coordinate",
+  "type": "object",
+  "properties": {
+    "type": { "type": "string", "const": "globecoordinate" },
+    "value": {
+      "type": "object",
+      "properties": {
+        "latitude": {
+          "description": "The latitude part of the coordinate in degrees",
+          "type": "number",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "longitude": {
+          "description": "The longitude part of the coordinate in degrees",
+          "type": "number",
+          "minimum": -360,
+          "maximum": 360
+        },
+        "altitude": {
+          "type": "null",
+          "const": null,
+          "deprecated": true,
+          "default": null
+        },
+        "precision": {
+          "description": "The coordinate's precision in degrees,",
+          "type": ["number", "null"]
+        },
+        "globe": { "$ref": "../item.schema.json#/$defs/uri" }
+      },
+      "required": ["latitude", "longitude", "precision", "globe"],
+      "additionalProperties": false
+    }
+  },
+  "required": ["type", "value"],
+  "additionalProperties": false,
+  "examples": [
+    {
+      "value": {
+        "longitude": -3.6736,
+        "precision": 0.0001,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "latitude": 40.3929
+      },
+      "type": "globecoordinate"
+    }
+  ]
+}

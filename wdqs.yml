@@ -1,0 +1,133 @@
+openapi: 3.1.0
+
+info:
+  title: Wikidata Query Service
+  version: 1.0.0
+
+externalDocs:
+  url: https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service
+
+servers:
+  - url: https://query.wikidata.org
+
+paths:
+  /sparql:
+    get:
+      parameters:
+        - name: query
+          in: query
+          required: true
+          schema:
+            type: string
+          examples:
+            cats:
+              "$ref": "#/components/examples/catsQuery"
+            catsWithPictures:
+              "$ref": "#/components/examples/catsWithPicturesQuery"
+            hospitalsMap:
+              "$ref": "#/components/examples/hospitalsMapQuery"
+        - "$ref": "#/components/parameters/format"
+      responses:
+        "200":
+          "$ref": "#/components/responses/SPARQLResults"
+
+    post:
+      parameters:
+        - "$ref": "#/components/parameters/format"
+      requestBody:
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              type: object
+              properties:
+                query:
+                  type: string
+              required:
+                - query
+      responses:
+        "200":
+          "$ref": "#/components/responses/SPARQLResults"
+
+  /bigdata/ldf:
+    get:
+      parameters:
+        - name: subject
+          in: query
+          schema:
+            type: string
+        - name: predicate
+          in: query
+          schema:
+            type: string
+            example: http://www.wikidata.org/prop/direct/P212
+        - name: object
+          in: query
+          schema:
+            type: string
+            example: '"978-0-262-03293-3"'
+        - name: page
+          in: query
+          schema:
+            type: integer
+            example: 1
+      responses:
+        "200":
+          description: Successful response
+          content:
+            text/html: {}
+            text/turtle: {}
+            application/ld+json: {}
+            application/n-triples: {}
+            application/rdf+xml: {}
+
+components:
+  parameters:
+    format:
+      name: format
+      in: query
+      required: false
+      schema:
+        type: string
+        enum:
+          - json
+          - xml
+
+  responses:
+    SPARQLResults:
+      description: SPARQL Query Results
+      content:
+        # https://www.w3.org/TR/rdf-sparql-XMLres/
+        application/sparql-results+xml: {}
+        # https://www.w3.org/TR/sparql-results-json/
+        application/sparql-results+json:
+          schema:
+            $ref: "./sparql-results.schema.json"
+        # https://www.w3.org/TR/sparql-results-csv-tsv/
+        text/tab-separated-values: {}
+        # https://www.w3.org/TR/sparql-results-csv-tsv/
+        text/csv: {}
+        application/x-binary-rdf-results-table: {}
+
+  examples:
+    catsQuery:
+      summary: SPARQL for cats
+      value: |
+        SELECT ?item ?itemLabel WHERE {
+          ?item wdt:P31 wd:Q146.
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+        }
+    catsWithPicturesQuery:
+      summary: SPARQL for cats, with pictures
+      value: |
+        SELECT ?item ?itemLabel ?pic WHERE {
+          ?item wdt:P31 wd:Q146;
+            wdt:P18 ?pic.
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+        }
+    hospitalsMapQuery:
+      summary: SPARQL for map of hospitals
+      value: |
+        SELECT DISTINCT * WHERE {
+          ?item (wdt:P31/(wdt:P279*)) wd:Q16917;
+            wdt:P625 ?geo.
+        }

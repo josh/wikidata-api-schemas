@@ -1,0 +1,507 @@
+{
+  "entities": {
+    "L2": {
+      "pageid": 54386964,
+      "ns": 146,
+      "title": "Lexeme:L2",
+      "lastrevid": 1783726651,
+      "modified": "2022-12-03T23:27:58Z",
+      "type": "lexeme",
+      "id": "L2",
+      "lemmas": { "en": { "language": "en", "value": "first" } },
+      "lexicalCategory": "Q63116",
+      "language": "Q1860",
+      "claims": {
+        "P5402": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5402",
+              "hash": "2bbfeb016e193314ded80aab7e3ac7f573ce0566",
+              "datavalue": {
+                "value": {
+                  "entity-type": "lexeme",
+                  "numeric-id": 46028,
+                  "id": "L46028"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-lexeme"
+            },
+            "type": "statement",
+            "id": "L2$93837555-4e58-e5d4-5076-aff7bf110105",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5402",
+              "hash": "07baf26473fe71acbc0fa22685386a8d9e6051ff",
+              "datavalue": {
+                "value": {
+                  "entity-type": "lexeme",
+                  "numeric-id": 333590,
+                  "id": "L333590"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-lexeme"
+            },
+            "type": "statement",
+            "id": "L2$65c8c64b-446c-1916-8bf0-79f950588e0c",
+            "rank": "normal"
+          }
+        ],
+        "P5831": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5831",
+              "hash": "c05d47a10deac4b26b591cc9022a8155ce44462f",
+              "datavalue": {
+                "value": { "text": "He was first in line.", "language": "en" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6072": [
+                {
+                  "snaktype": "value",
+                  "property": "P6072",
+                  "hash": "e2e8db8e15e2c50d468dc7381ac584bb10e26e44",
+                  "datavalue": {
+                    "value": { "entity-type": "sense", "id": "L2-S1" },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-sense"
+                }
+              ],
+              "P5830": [
+                {
+                  "snaktype": "value",
+                  "property": "P5830",
+                  "hash": "10fb0d777f4eaf9301436a9acd2947e02f6c8d41",
+                  "datavalue": {
+                    "value": { "entity-type": "form", "id": "L2-F3" },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-form"
+                }
+              ]
+            },
+            "qualifiers-order": ["P6072", "P5830"],
+            "id": "L2$792a7157-43f7-a90f-c4cf-1ce6d7f4e78f",
+            "rank": "normal"
+          }
+        ]
+      },
+      "forms": [
+        {
+          "id": "L2-F1",
+          "representations": { "en": { "language": "en", "value": "firsts" } },
+          "grammaticalFeatures": ["Q146786"],
+          "claims": {
+            "P898": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P898",
+                  "hash": "fce19714ae00fe259aa180b2c9729d3e4e3c7aca",
+                  "datavalue": { "value": "f\u025dsts", "type": "string" },
+                  "datatype": "string"
+                },
+                "type": "statement",
+                "qualifiers": {
+                  "P5237": [
+                    {
+                      "snaktype": "value",
+                      "property": "P5237",
+                      "hash": "6c54ff643a290ae5f9b384b3d255bf3708481de3",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 7976,
+                          "id": "Q7976"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "qualifiers-order": ["P5237"],
+                "id": "L2-F1$dc3a1cae-46a8-bcc9-94d6-5fda81c87be9",
+                "rank": "normal",
+                "references": [
+                  {
+                    "hash": "a980f0820f608da6f2bd60cfb14c6840ce3e67ab",
+                    "snaks": {
+                      "P248": [
+                        {
+                          "snaktype": "value",
+                          "property": "P248",
+                          "hash": "d2048c7988c15199cb2805a18c4368ce8a4793ea",
+                          "datavalue": {
+                            "value": {
+                              "entity-type": "item",
+                              "numeric-id": 22001375,
+                              "id": "Q22001375"
+                            },
+                            "type": "wikibase-entityid"
+                          },
+                          "datatype": "wikibase-item"
+                        }
+                      ]
+                    },
+                    "snaks-order": ["P248"]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "L2-F3",
+          "representations": {
+            "en": { "language": "en", "value": "first" },
+            "en-x-Q102786": { "language": "en-x-Q102786", "value": "1st" }
+          },
+          "grammaticalFeatures": ["Q110786"],
+          "claims": {
+            "P898": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P898",
+                  "hash": "40785651b2d466304b860aaf4fd69b911aeb3d6c",
+                  "datavalue": { "value": "/f\u025dst/", "type": "string" },
+                  "datatype": "string"
+                },
+                "type": "statement",
+                "qualifiers": {
+                  "P5237": [
+                    {
+                      "snaktype": "value",
+                      "property": "P5237",
+                      "hash": "6c54ff643a290ae5f9b384b3d255bf3708481de3",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 7976,
+                          "id": "Q7976"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "qualifiers-order": ["P5237"],
+                "id": "L2-F3$ba53f23a-4b0a-ac6e-2bff-3b007e8f7024",
+                "rank": "normal",
+                "references": [
+                  {
+                    "hash": "a980f0820f608da6f2bd60cfb14c6840ce3e67ab",
+                    "snaks": {
+                      "P248": [
+                        {
+                          "snaktype": "value",
+                          "property": "P248",
+                          "hash": "d2048c7988c15199cb2805a18c4368ce8a4793ea",
+                          "datavalue": {
+                            "value": {
+                              "entity-type": "item",
+                              "numeric-id": 22001375,
+                              "id": "Q22001375"
+                            },
+                            "type": "wikibase-entityid"
+                          },
+                          "datatype": "wikibase-item"
+                        }
+                      ]
+                    },
+                    "snaks-order": ["P248"]
+                  }
+                ]
+              }
+            ],
+            "P443": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P443",
+                  "hash": "6995f2e5dc31492b8cc69e56654006bde4894f74",
+                  "datavalue": { "value": "En-us-first.ogg", "type": "string" },
+                  "datatype": "commonsMedia"
+                },
+                "type": "statement",
+                "qualifiers": {
+                  "P5237": [
+                    {
+                      "snaktype": "value",
+                      "property": "P5237",
+                      "hash": "6c54ff643a290ae5f9b384b3d255bf3708481de3",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 7976,
+                          "id": "Q7976"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "qualifiers-order": ["P5237"],
+                "id": "L2-F3$4f563bf3-4804-627a-4a0f-97d9aa4dddda",
+                "rank": "normal"
+              }
+            ]
+          }
+        }
+      ],
+      "senses": [
+        {
+          "id": "L2-S1",
+          "glosses": {
+            "en": {
+              "language": "en",
+              "value": "Element in an ordered list which comes before all others according to the ordering"
+            },
+            "de": {
+              "language": "de",
+              "value": "einer Ordnung folgend das Element vor allen anderen"
+            },
+            "es": {
+              "language": "es",
+              "value": "primero; elemento que se ubica antes que todos los dem\u00e1s en una lista ordenada."
+            },
+            "eu": {
+              "language": "eu",
+              "value": "Ordenatutako zerrenda batean besteen aurretik dagoen elementua"
+            },
+            "te": {
+              "language": "te",
+              "value": "\u0c2e\u0c4a\u0c26\u0c1f\u0c3f "
+            },
+            "pt-br": {
+              "language": "pt-br",
+              "value": "Elemento em uma lista ordenada que precede todos os demais conforme o ordenamento"
+            },
+            "ru": {
+              "language": "ru",
+              "value": "\u043f\u0435\u0440\u0432\u044b\u0439 \u044d\u043b\u0435\u043c\u0435\u043d\u0442 \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438"
+            },
+            "ms": { "language": "ms", "value": "pertama" },
+            "pa": {
+              "language": "pa",
+              "value": "\u0a2a\u0a39\u0a3f\u0a32\u0a3e"
+            },
+            "th": {
+              "language": "th",
+              "value": "\u0e17\u0e35\u0e48\u0e2b\u0e19\u0e36\u0e48\u0e07, \u0e2d\u0e31\u0e19\u0e41\u0e23\u0e01, \u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01, \u0e41\u0e23\u0e01\u0e2a\u0e38\u0e14, \u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a\u0e41\u0e23\u0e01"
+            },
+            "hu": {
+              "language": "hu",
+              "value": "Egy rendezett lista azon eleme, melyet az \u00f6sszes t\u00f6bbi k\u00f6vet"
+            },
+            "tg": {
+              "language": "tg",
+              "value": "\u0430\u0432\u0432\u0430\u043b\u0438\u043d, \u0430\u0432\u0432\u0430\u043b, \u044f\u043a\u0443\u043c, \u044f\u043a\u0443\u043c\u0438\u043d"
+            },
+            "he": {
+              "language": "he",
+              "value": "\u05e8\u05d0\u05e9\u05d5\u05df"
+            },
+            "fr": {
+              "language": "fr",
+              "value": "\u00e9l\u00e9ment pr\u00e9c\u00e9dant tous les autres occurrences dans un ensemble partiellement ordonn\u00e9 d'\u00e9l\u00e9ments de m\u00eame genre ou ayant des propri\u00e9t\u00e9s communes ; l'ordinal un ; le plus ancien"
+            },
+            "pl": {
+              "language": "pl",
+              "value": "element uporz\u0105dkowanej listy poprzedzaj\u0105cy inne"
+            },
+            "it": {
+              "language": "it",
+              "value": "elemento in una lista ordinata che viene prima di tutti gli altri"
+            },
+            "sr-ec": {
+              "language": "sr-ec",
+              "value": "\u0435\u043b\u0435\u043c\u0435\u043d\u0442 \u0443 \u0443\u0440\u0435\u0452\u0435\u043d\u043e\u0458 \u043b\u0438\u0441\u0442\u0438  \u043a\u043e\u0458\u0438 \u0441\u0435 \u043d\u0430\u043b\u0430\u0437\u0438 \u043f\u0440\u0435 \u0441\u0432\u0438\u0445 \u0433\u043b\u0435\u0434\u0430\u043d\u043e \u043f\u043e \u0440\u0435\u0434\u043e\u0441\u043b\u0435\u0434\u0443"
+            },
+            "ban": { "language": "ban", "value": "kapertama" },
+            "id": { "language": "id", "value": "pertama" },
+            "jv": { "language": "jv", "value": "kapisan" },
+            "nl": { "language": "nl", "value": "eerste" },
+            "uk": {
+              "language": "uk",
+              "value": "\u043f\u0435\u0440\u0448\u0438\u0439 \u0435\u043b\u0435\u043c\u0435\u043d\u0442 \u0443 \u043f\u043e\u0441\u043b\u0456\u0434\u043e\u0432\u043d\u043e\u0441\u0442\u0456"
+            },
+            "am": {
+              "language": "am",
+              "value": "\u1240\u12f3\u121b\u12ca\u1275\u1363 \u1240\u12f3\u121b\u12ca\u1363 \u134a\u1270\u129b\u1363 \u1218\u1300\u1218\u122a\u12eb\u1363 \u1240\u12f0\u1218\u129b\u1363 \u1260\u134a\u1275 \u12eb\u1208\u1363 \u12e8\u121a\u1240\u12f5\u121d\u1363 \u12e8\u1218\u1300\u1218\u122a\u12eb\u1363 \u12a0\u1295\u12f0\u129b\u1363 \u12a0\u1295\u12f5\u1363 \u12eb\u1295\u12f0\u129d\u1290\u1275\u1363 \u1240\u12f0\u121b\u12ca\u1363"
+            },
+            "vi": {
+              "language": "vi",
+              "value": "Th\u1ee9 \u0111\u1ee9ng tr\u01b0\u1edbc t\u1ea5t c\u1ea3 c\u00e1c th\u1ee9 kh\u00e1c trong m\u1ed9t danh s\u00e1ch"
+            },
+            "zh": { "language": "zh", "value": "\u7b2c\u4e00" },
+            "zh-tw": { "language": "zh-tw", "value": "\u7b2c\u4e00" },
+            "zh-hant": { "language": "zh-hant", "value": "\u7b2c\u4e00" },
+            "nan": { "language": "nan", "value": "T\u0113-it" },
+            "hi": {
+              "language": "hi",
+              "value": "\u092a\u094d\u0930\u0925\u092e"
+            },
+            "ml": {
+              "language": "ml",
+              "value": "\u0d12\u0d28\u0d4d\u0d28\u0d3e\u0d02; \u0d06\u0d26\u0d4d\u0d2f\u0d02; \u0d12\u0d28\u0d4d\u0d28\u0d3e\u0d2e\u0d24\u0d4d"
+            },
+            "fi": { "language": "fi", "value": "ensimm\u00e4inen" },
+            "mk": {
+              "language": "mk",
+              "value": "\u043f\u0440\u0432 \u0435\u043b\u0435\u043c\u0435\u043d\u0442 \u0432\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u043d\u0430 \u043d\u0438\u0437\u0430"
+            },
+            "tr": { "language": "tr", "value": "\u0130lk" },
+            "bs": {
+              "language": "bs",
+              "value": "element u ure\u0111enom spisku koji se nalazi prije svih po redoslijedu"
+            },
+            "fa": {
+              "language": "fa",
+              "value": "\u0646\u062e\u0633\u062a\u060c \u0627\u0648\u0644\u060c \u0627\u0648\u0644\u06cc\u0646\u060c \u0646\u062e\u0633\u062a\u06cc\u0646"
+            }
+          },
+          "claims": {
+            "P5137": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P5137",
+                  "hash": "9819b6448a86201c84ae0e9fff2de3515eed0a79",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 28469711,
+                      "id": "Q28469711"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "qualifiers": {
+                  "P2241": [
+                    {
+                      "snaktype": "value",
+                      "property": "P2241",
+                      "hash": "3881010e61ccbd44cd6782dbd023bbf030a45fa8",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 42415624,
+                          "id": "Q42415624"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "qualifiers-order": ["P2241"],
+                "id": "L2-S1$59c0e2de-4ef8-2e14-e253-5fed2a18206a",
+                "rank": "deprecated"
+              },
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P5137",
+                  "hash": "3b414b2b5a5c6882948c529da0aedb0171f05289",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 19269277,
+                      "id": "Q19269277"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                "type": "statement",
+                "id": "L2-S1$2654fa97-4e03-3127-d565-670ff5c53182",
+                "rank": "normal"
+              }
+            ],
+            "P5972": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P5972",
+                  "hash": "f56f9f6b5060f4598a681f1ca1217b95b3776d35",
+                  "datavalue": {
+                    "value": { "entity-type": "sense", "id": "L2741-S1" },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-sense"
+                },
+                "type": "statement",
+                "id": "L2-S1$3B09AC78-3BA3-4D5C-B1AE-2DEF143E20F3",
+                "rank": "normal"
+              },
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P5972",
+                  "hash": "ec1d7923de75efce3ea7d9fdfc8ac409b87e9c33",
+                  "datavalue": {
+                    "value": { "entity-type": "sense", "id": "L230505-S1" },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-sense"
+                },
+                "type": "statement",
+                "id": "L2-S1$7245cc05-4a4e-e31a-84c5-76cc79d07e99",
+                "rank": "normal"
+              },
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P5972",
+                  "hash": "7cf2f21c3ad966c136f587fcc4b017e3e2b5bf46",
+                  "datavalue": {
+                    "value": { "entity-type": "sense", "id": "L11587-S1" },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-sense"
+                },
+                "type": "statement",
+                "id": "L2-S1$2081185B-3563-4931-980D-5C43D3727C1B",
+                "rank": "normal"
+              }
+            ],
+            "P2888": [
+              {
+                "mainsnak": {
+                  "snaktype": "value",
+                  "property": "P2888",
+                  "hash": "7eaa28485eddd70de2fcb5b2226619a911205061",
+                  "datavalue": {
+                    "value": "http://www.w3.org/1999/xhtml/vocab#first",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                },
+                "type": "statement",
+                "id": "L2-S1$0f360876-4470-7228-01f4-b7fb32467e1d",
+                "rank": "normal"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
