@@ -4,4 +4,13 @@ on: push
 
 jobs:
   prettier:
-    uses: josh/workflows/.github/workflows/prettier.yml@main
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Prettier
+        run: npm install --global prettier
+
+      - name: Lint
+        run: prettier --check .
