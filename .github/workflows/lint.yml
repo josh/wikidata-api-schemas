@@ -14,3 +14,37 @@ jobs:
 
       - name: Lint
         run: prettier --check .
+
+  shellcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install ShellCheck
+        run: sudo apt-get install shellcheck
+
+      - name: Generate shell file list
+        run: |
+          find . -type f -name '*.sh' | tee "$RUNNER_TEMP/shell-files.txt"
+
+      - name: Check files
+        run: |
+          readarray -t files <"$RUNNER_TEMP/shell-files.txt"
+          shellcheck "${files[@]}"
+
+  shfmt:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install shfmt
+        run: |
+          curl --silent https://api.github.com/repos/mvdan/sh/releases/latest |
+            jq --raw-output '.assets[] | select(.name| test("shfmt_v.*_linux_amd64")) | .browser_download_url' |
+            wget --quiet -O shfmt --input-file=-
+          chmod +x shfmt
+
+      - name: Check files
+        run: ./shfmt -d .
