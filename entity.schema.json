@@ -55,12 +55,14 @@
       "$anchor": "labels",
       "description": "Contains the labels in different languages",
       "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "type": "object",
       "minProperties": 0
     },
     "descriptions": {
       "$anchor": "descriptions",
       "description": "Contains the descriptions in different languages",
       "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "type": "object",
       "minProperties": 0
     },
     "aliases": {

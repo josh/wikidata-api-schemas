@@ -18,6 +18,7 @@
     "lemmas": {
       "title": "Lemmas",
       "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "type": "object",
       "minProperties": 1
     },
     "lexicalCategory": { "$ref": "./item.schema.json#/$defs/id" },

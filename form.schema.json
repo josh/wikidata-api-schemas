@@ -8,6 +8,7 @@
     "representations": {
       "title": "Representations",
       "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "type": "object",
       "minProperties": 1
     },
     "grammaticalFeatures": {

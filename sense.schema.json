@@ -8,6 +8,7 @@
     "glosses": {
       "title": "Glosses",
       "$ref": "./multilingual-text-value.schema.json#/$defs/values",
+      "type": "object",
       "minProperties": 1
     },
     "claims": {
