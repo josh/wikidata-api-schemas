@@ -1,0 +1,573 @@
+{
+  "entities": {
+    "Q487324": {
+      "pageid": 458691,
+      "ns": 0,
+      "title": "Q487324",
+      "lastrevid": 2174761027,
+      "modified": "2024-06-09T01:51:55Z",
+      "type": "item",
+      "id": "Q487324",
+      "labels": {
+        "zh-hans": { "language": "zh-hans", "value": "\u736c\u8c78" },
+        "zh-hant": { "language": "zh-hant", "value": "\u736c\u8c78" },
+        "zh-hk": { "language": "zh-hk", "value": "\u736c\u8c78" },
+        "id": { "language": "id", "value": "Xiezhi" },
+        "ja": { "language": "ja", "value": "\u736c\u8c78" },
+        "pl": { "language": "pl", "value": "Xiezhi" },
+        "ko": { "language": "ko", "value": "\ud574\ud0dc" },
+        "en": { "language": "en", "value": "Xiezhi" },
+        "fi": { "language": "fi", "value": "Xiezhi" },
+        "fr": { "language": "fr", "value": "Haetae" },
+        "zh": { "language": "zh", "value": "\u736c\u8c78" },
+        "nl": { "language": "nl", "value": "Hiai Chai" },
+        "th": {
+          "language": "th",
+          "value": "\u0e40\u0e0b\u0e35\u0e48\u0e22\u0e08\u0e37\u0e49\u0e2d"
+        },
+        "es": { "language": "es", "value": "Xiezhi" },
+        "lzh": { "language": "lzh", "value": "\u736c\u8c78" },
+        "ms": { "language": "ms", "value": "Xiezhi" },
+        "vi": { "language": "vi", "value": "Gi\u1ea3i tr\u00e3i" },
+        "cs": { "language": "cs", "value": "Sie-\u010d\u2019" },
+        "yue": { "language": "yue", "value": "\u736c\u8c78" },
+        "he": {
+          "language": "he",
+          "value": "\u05e9\u05d9\u05d0\u05d6\u05d4\u05d9"
+        },
+        "uz": { "language": "uz", "value": "Koreys afsonaviy hayvoni \"Hete\"" }
+      },
+      "descriptions": {
+        "ko": {
+          "language": "ko",
+          "value": "\ub3d9\uc544\uc2dc\uc544 \uace0\ub300 \uc804\uc124 \uc18d\uc758 \uc0c1\uc0c1\uc758 \ub3d9\ubb3c"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u4e2d\u56fd\u306e\u4f1d\u8aac\u4e0a\u306e\u52d5\u7269"
+        },
+        "en": { "language": "en", "value": "Chinese mythological beast" }
+      },
+      "aliases": {
+        "zh": [{ "language": "zh", "value": "\u61c8\u5ecc" }],
+        "ja": [
+          { "language": "ja", "value": "\u30d8\u30c1" },
+          { "language": "ja", "value": "\u30ab\u30a4\u8c78" },
+          { "language": "ja", "value": "\u30ab\u30a4\u30c1" }
+        ],
+        "ko": [{ "language": "ko", "value": "\ud574\uce58" }],
+        "en": [{ "language": "en", "value": "unicorn-lion" }]
+      },
+      "claims": {
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "3aa6ff37af46ef1048fa544d1e8cbd581b7caa03",
+              "datavalue": { "value": "Xiezhi", "type": "string" },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "q487324$9B3C924D-43E6-444F-B92E-774CCF45DE43",
+            "rank": "normal"
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "95082b9715db4dc63b4f84c7f831254b1a2d6b12",
+              "datavalue": { "value": "/m/0dycx9", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q487324$FE20F5C4-E79C-4A2A-AFDE-E7A797376732",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P248", "P577"]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "dace2ce7dc06a9323b1cafb7ab98b3d3a5b5726d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2239243,
+                  "id": "Q2239243"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q487324$33E9F881-B1E6-4B47-A7FE-4BD38B09A80F",
+            "rank": "normal"
+          }
+        ],
+        "P1343": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1343",
+              "hash": "75dd89e79770a3e631dbba27144940f8f1bc1773",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1768721,
+                  "id": "Q1768721"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P805": [
+                {
+                  "snaktype": "value",
+                  "property": "P805",
+                  "hash": "0d61dc96e21ac367faf386d0cfb962ed8e681dc1",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 96599876,
+                      "id": "Q96599876"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": ["P805"],
+            "id": "Q487324$D5C6CDA7-F7D4-40BA-B924-4F7043C5DBF5",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "199110afa386ee628b057e1796df1c57f9f97079",
+              "datavalue": { "value": "Xiezhi1.jpg", "type": "string" },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q487324$123ab331-bbac-4d0b-b976-574bd41ea77f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3bf39867b037e8e494a8389ae8a03bad6825a7fc",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "5946b91c53409c48f5f1fb0319ed41fc67a764da",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 191168,
+                          "id": "Q191168"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": ["P143"]
+              }
+            ]
+          }
+        ],
+        "P8885": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8885",
+              "hash": "a659da4612cd1ed7aeb96a3ba4a45031836b8df8",
+              "datavalue": { "value": "\ud574\ud0dc", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q487324$aa0027b4-4f82-defa-b589-5a7892dc18b5",
+            "rank": "normal"
+          }
+        ],
+        "P9475": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9475",
+              "hash": "a2d0a353e528413d310d09268397f4d657a642d9",
+              "datavalue": { "value": "E0062778", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q487324$79440cb7-480f-e9c2-4a12-9b2b68fa1036",
+            "rank": "normal"
+          }
+        ],
+        "P1705": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "561af02f2f03a1d4573c722770c9fe9798ef4d91",
+              "datavalue": {
+                "value": { "text": "\u736c\u8c78", "language": "zh-hant" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1721": [
+                {
+                  "snaktype": "value",
+                  "property": "P1721",
+                  "hash": "4e563a3338e18b318299989b70a114d9f6a9d453",
+                  "datavalue": {
+                    "value": "xi\u00e8zh\u00ec",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1721"],
+            "id": "Q487324$c363c78a-4c57-26b5-8cd3-eebe9b859639",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "83692917bba3f30e2fde340a31d0e5962a057d8d",
+              "datavalue": {
+                "value": { "text": "\u736c\u8c78", "language": "zh-hans" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1721": [
+                {
+                  "snaktype": "value",
+                  "property": "P1721",
+                  "hash": "4e563a3338e18b318299989b70a114d9f6a9d453",
+                  "datavalue": {
+                    "value": "xi\u00e8zh\u00ec",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1721"],
+            "id": "Q487324$a72dcb26-45eb-50ec-18d5-14aaf5ac47bd",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "4e69d7921e39b3f51cb7424f3d65c82a47c00809",
+              "datavalue": {
+                "value": { "text": "\u736c\u8c78", "language": "yue" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P9311": [
+                {
+                  "snaktype": "value",
+                  "property": "P9311",
+                  "hash": "5a671fa8b6abb4256aeae3a30aff8e7a53e0d440",
+                  "datavalue": { "value": "haai5 zi6", "type": "string" },
+                  "datatype": "string"
+                }
+              ],
+              "P9313": [
+                {
+                  "snaktype": "value",
+                  "property": "P9313",
+                  "hash": "9724541d9246eef294b9ab40fe42b8e886c2b652",
+                  "datavalue": { "value": "h\u00e1aih jih", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P9311", "P9313"],
+            "id": "Q487324$e3382344-4657-97d8-7c79-be328a5d35b0",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "59964e3940a018f90bb799d9fcdecd86b379a876",
+              "datavalue": {
+                "value": {
+                  "text": "h\u0103i ts\u0103i",
+                  "language": "nan-latn-pehoeji"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q487324$4f51323d-4580-e9b6-7ccf-2fe60ae887bc",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "d9365383aaf2df2e765b6046cc7c6cfee8a4c62a",
+              "datavalue": {
+                "value": { "text": "\u736c\u8c78", "language": "ja" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1814": [
+                {
+                  "snaktype": "value",
+                  "property": "P1814",
+                  "hash": "d18ee9aa1c14515b05a3e4a9154c12e355bd6d29",
+                  "datavalue": {
+                    "value": "\u304b\u3044\u3061",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P2125": [
+                {
+                  "snaktype": "value",
+                  "property": "P2125",
+                  "hash": "d26d93a83d1d59cd71518490e5690521b70a1bf3",
+                  "datavalue": { "value": "kaichi", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P1814", "P2125"],
+            "id": "Q487324$f2c9b326-4df7-5a10-253f-bf70d8d26e41",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "13caa416c6618868958c83b19dcf6551b940e922",
+              "datavalue": {
+                "value": { "text": "\ud574\ud0dc", "language": "ko" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2001": [
+                {
+                  "snaktype": "value",
+                  "property": "P2001",
+                  "hash": "a66524a1ea528e7f312986109dc9957fbbe7d707",
+                  "datavalue": { "value": "haetae", "type": "string" },
+                  "datatype": "string"
+                }
+              ],
+              "P1942": [
+                {
+                  "snaktype": "value",
+                  "property": "P1942",
+                  "hash": "1d5046dd6cd1df047a4fe2097d9e80c6c5138e7d",
+                  "datavalue": { "value": "haet\u2019ae", "type": "string" },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": ["P2001", "P1942"],
+            "id": "Q487324$a0aa6b1d-4691-c4eb-8e74-7dc4bda6df59",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1705",
+              "hash": "902a2e8f5e3b35c88a3dcbc5962c8702ab3760f4",
+              "datavalue": {
+                "value": { "text": "gi\u1ea3i tr\u00e3i", "language": "vi" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q487324$2acb5f48-4450-d9f7-f8df-e9d0d9d1ac8b",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Xiezhi",
+          "badges": [],
+          "url": "https://commons.wikimedia.org/wiki/Category:Xiezhi"
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Sie-\u010d\u2019",
+          "badges": [],
+          "url": "https://cs.wikipedia.org/wiki/Sie-%C4%8D%E2%80%99"
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Xiezhi",
+          "badges": [],
+          "url": "https://en.wikipedia.org/wiki/Xiezhi"
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Xiezhi",
+          "badges": [],
+          "url": "https://es.wikipedia.org/wiki/Xiezhi"
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Xiezhi",
+          "badges": [],
+          "url": "https://fi.wikipedia.org/wiki/Xiezhi"
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Haetae",
+          "badges": [],
+          "url": "https://fr.wikipedia.org/wiki/Haetae"
+        },
+        "idwiki": {
+          "site": "idwiki",
+          "title": "Xiezhi",
+          "badges": [],
+          "url": "https://id.wikipedia.org/wiki/Xiezhi"
+        },
+        "jawiki": {
+          "site": "jawiki",
+          "title": "\u736c\u8c78",
+          "badges": [],
+          "url": "https://ja.wikipedia.org/wiki/%E7%8D%AC%E8%B1%B8"
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "\ud574\ud0dc",
+          "badges": [],
+          "url": "https://ko.wikipedia.org/wiki/%ED%95%B4%ED%83%9C"
+        },
+        "mswiki": {
+          "site": "mswiki",
+          "title": "Xiezhi",
+          "badges": [],
+          "url": "https://ms.wikipedia.org/wiki/Xiezhi"
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Xiezhi",
+          "badges": [],
+          "url": "https://pl.wikipedia.org/wiki/Xiezhi"
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "\u0e40\u0e0b\u0e35\u0e48\u0e22\u0e08\u0e37\u0e49\u0e2d",
+          "badges": [],
+          "url": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%88%E0%B8%B7%E0%B9%89%E0%B8%AD"
+        },
+        "uzwiki": {
+          "site": "uzwiki",
+          "title": "Koreys afsonaviy hayvoni \"Hete\"",
+          "badges": [],
+          "url": "https://uz.wikipedia.org/wiki/Koreys_afsonaviy_hayvoni_%22Hete%22"
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "Gi\u1ea3i tr\u00e3i",
+          "badges": [],
+          "url": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_tr%C3%A3i"
+        },
+        "zh_classicalwiki": {
+          "site": "zh_classicalwiki",
+          "title": "\u736c\u8c78",
+          "badges": [],
+          "url": "https://zh-classical.wikipedia.org/wiki/%E7%8D%AC%E8%B1%B8"
+        },
+        "zh_yuewiki": {
+          "site": "zh_yuewiki",
+          "title": "\u736c\u8c78",
+          "badges": [],
+          "url": "https://zh-yue.wikipedia.org/wiki/%E7%8D%AC%E8%B1%B8"
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "\u736c\u8c78",
+          "badges": [],
+          "url": "https://zh.wikipedia.org/wiki/%E7%8D%AC%E8%B1%B8"
+        }
+      }
+    }
+  }
+}
