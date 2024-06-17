@@ -46,7 +46,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install ajv@8.12.0 ajv-formats@2.1.1 ajv-formats-draft2019@1.6.1
+          npm install ajv@8.16.0 ajv-formats@3.0.1 ajv-formats-draft2019@1.6.1
 
       - name: Run tests
         run: node scripts/test_ajv.js
