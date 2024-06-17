@@ -11,9 +11,9 @@ from pathlib import Path
 from typing import Iterator
 
 # Script Dependencies:
-#     jsonschema==4.19.0
-#     referencing==0.30.2
-#     tqdm==4.66.1
+#     jsonschema==4.22.0
+#     referencing==0.35.1
+#     tqdm==4.66.4
 import referencing.retrieval
 from jsonschema import Draft202012Validator
 from referencing import Registry

@@ -5,8 +5,8 @@ from pathlib import Path
 from textwrap import indent
 
 # Script Dependencies:
-#     jsonschema==4.19.0
-#     referencing==0.30.2
+#     jsonschema==4.22.0
+#     referencing==0.35.1
 import referencing.retrieval
 from jsonschema import Draft202012Validator
 from referencing import Registry
