@@ -25,7 +25,7 @@
       "description": "An arbitrary identifier for the Statement, which is unique across the repository",
       "type": "string",
       "minLength": 39,
-      "pattern": "^[qQpPlL][1-9][0-9]*(-[fFsS][1-9][0-9]*)?\\$[0-9a-fA-F]{8}(-[0-9a-fA-F]{4}){3}-[0-9a-fA-F]{12}$",
+      "pattern": "^[qQpPlL][1-9][0-9]*(-[fFsS][1-9][0-9]*)?\\$[0-9a-fA-F]{8}(-[0-9a-fA-F]{4}){3}-[a-zA-Z0-9]+$",
       "examples": [
         "q60$5083E43C-228B-4E3E-B82A-4CB20A22A3FB",
         "P31$696d3f45-4cba-b3db-1648-0da6c3b29380",
