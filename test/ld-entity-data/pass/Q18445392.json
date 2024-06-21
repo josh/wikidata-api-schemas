@@ -1,0 +1,1184 @@
+{
+  "entities": {
+    "Q18445392": {
+      "pageid": 19979423,
+      "ns": 0,
+      "title": "Q18445392",
+      "lastrevid": 2180926603,
+      "modified": "2024-06-16T00:39:10Z",
+      "type": "item",
+      "id": "Q18445392",
+      "labels": {
+        "es": { "language": "es", "value": "El Marino" },
+        "en": { "language": "en", "value": "El Marino" },
+        "fi": { "language": "fi", "value": "El Marino" },
+        "sv": { "language": "sv", "value": "El Marino" },
+        "sco": { "language": "sco", "value": "El Marino" },
+        "yo": { "language": "yo", "value": "El Marino" },
+        "de": { "language": "de", "value": "El Marino" },
+        "fr": { "language": "fr", "value": "El Marino" },
+        "pt": { "language": "pt", "value": "El Marino" },
+        "ru": { "language": "ru", "value": "El Marino" },
+        "la": { "language": "la", "value": "El Marino" }
+      },
+      "descriptions": {
+        "es": { "language": "es", "value": "diario electr\u00f3nico chileno" },
+        "en": { "language": "en", "value": "Chilean online newspaper" },
+        "bg": {
+          "language": "bg",
+          "value": "\u0423\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u044f \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f"
+        },
+        "fi": { "language": "fi", "value": "Wikimedia-luokka" },
+        "nl": { "language": "nl", "value": "Wikimedia-categorie" },
+        "eo": { "language": "eo", "value": "kategorio en Vikimedio" },
+        "ko": {
+          "language": "ko",
+          "value": "\uc704\ud0a4\ubbf8\ub514\uc5b4 \ubd84\ub958"
+        },
+        "nap": {
+          "language": "nap",
+          "value": "categur\u00eca 'e nu pruggette Wikimedia"
+        },
+        "ja": {
+          "language": "ja",
+          "value": "\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u306e\u30ab\u30c6\u30b4\u30ea"
+        },
+        "ilo": { "language": "ilo", "value": "kategoria ti Wikimedia" },
+        "an": { "language": "an", "value": "categor\u00eda de Wikimedia" },
+        "tr": { "language": "tr", "value": "Vikimedya kategorisi" },
+        "ca": { "language": "ca", "value": "categoria de Wikimedia" },
+        "br": { "language": "br", "value": "pajenn rummata eus Wikimedia" },
+        "fr": {
+          "language": "fr",
+          "value": "page de cat\u00e9gorie de Wikimedia"
+        },
+        "he": {
+          "language": "he",
+          "value": "\u05d3\u05e3 \u05e7\u05d8\u05d2\u05d5\u05e8\u05d9\u05d4"
+        },
+        "fy": { "language": "fy", "value": "Wikimedia-kategory" },
+        "bar": { "language": "bar", "value": "Wikimedia-Kategorie" },
+        "bho": {
+          "language": "bho",
+          "value": "\u0935\u093f\u0915\u093f\u092a\u0940\u0921\u093f\u092f\u093e:\u0936\u094d\u0930\u0947\u0923\u0940"
+        },
+        "nn": { "language": "nn", "value": "Wikimedia-kategori" },
+        "af": { "language": "af", "value": "Wikimedia-kategorie" },
+        "bjn": { "language": "bjn", "value": "tumbung Wikimedia" },
+        "ar": {
+          "language": "ar",
+          "value": "\u062a\u0635\u0646\u064a\u0641 \u0648\u064a\u0643\u064a\u0645\u064a\u062f\u064a\u0627"
+        },
+        "sl": { "language": "sl", "value": "kategorija Wikimedie" },
+        "da": { "language": "da", "value": "Wikimedia-kategori" },
+        "ckb": {
+          "language": "ckb",
+          "value": "\u067e\u06c6\u0644\u06cc \u0648\u06cc\u06a9\u06cc\u0645\u06cc\u062f\u06cc\u0627"
+        },
+        "ro": {
+          "language": "ro",
+          "value": "categorie \u00een cadrul unui proiect Wikimedia"
+        },
+        "tg": {
+          "language": "tg",
+          "value": "\u0433\u0443\u0440\u04ef\u04b3\u0438 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430"
+        },
+        "et": { "language": "et", "value": "Wikimedia kategooria" },
+        "zh-sg": {
+          "language": "zh-sg",
+          "value": "\u7ef4\u57fa\u5a92\u4f53\u5206\u7c7b"
+        },
+        "gsw": { "language": "gsw", "value": "Wikimedia-Kategorie" },
+        "de-at": { "language": "de-at", "value": "Wikimedia-Kategorie" },
+        "hy": {
+          "language": "hy",
+          "value": "\u054e\u056b\u0584\u056b\u0574\u0565\u0564\u056b\u0561\u0575\u056b \u0576\u0561\u056d\u0561\u0563\u056e\u056b \u056f\u0561\u057f\u0565\u0563\u0578\u0580\u056b\u0561"
+        },
+        "ba": {
+          "language": "ba",
+          "value": "\u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f\u04bb\u044b"
+        },
+        "hu": { "language": "hu", "value": "Wikim\u00e9dia-kateg\u00f3ria" },
+        "lb": { "language": "lb", "value": "Wikimedia-Kategorie" },
+        "ace": { "language": "ace", "value": "kawan Wikim\u00e8dia" },
+        "cs": {
+          "language": "cs",
+          "value": "kategorie na projektech Wikimedia"
+        },
+        "zh-mo": {
+          "language": "zh-mo",
+          "value": "\u7dad\u57fa\u5a92\u9ad4\u5206\u985e"
+        },
+        "pt-br": {
+          "language": "pt-br",
+          "value": "categoria de um projeto da Wikimedia"
+        },
+        "de": { "language": "de", "value": "Wikimedia-Kategorie" },
+        "fa": {
+          "language": "fa",
+          "value": "\u0631\u062f\u0647\u0654 \u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627"
+        },
+        "el": {
+          "language": "el",
+          "value": "\u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03af\u03b1 \u03b5\u03b3\u03c7\u03b5\u03b9\u03c1\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd Wikimedia"
+        },
+        "bn": {
+          "language": "bn",
+          "value": "\u0989\u0987\u0995\u09bf\u09ae\u09bf\u09a1\u09bf\u09af\u09bc\u09be \u09ac\u09bf\u09b7\u09af\u09bc\u09b6\u09cd\u09b0\u09c7\u09a3\u09c0"
+        },
+        "ru": {
+          "language": "ru",
+          "value": "\u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0435 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430"
+        },
+        "sco": { "language": "sco", "value": "Wikimedia category" },
+        "sr": {
+          "language": "sr",
+          "value": "\u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0458\u0430 \u043d\u0430 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0458\u0438"
+        },
+        "zh-my": {
+          "language": "zh-my",
+          "value": "\u7ef4\u57fa\u5a92\u4f53\u5206\u7c7b"
+        },
+        "de-ch": { "language": "de-ch", "value": "Wikimedia-Kategorie" },
+        "nds": { "language": "nds", "value": "Wikimedia-Kategorie" },
+        "nb": { "language": "nb", "value": "Wikimedia-kategori" },
+        "vi": { "language": "vi", "value": "th\u1ec3 lo\u1ea1i Wikimedia" },
+        "zh-hant": {
+          "language": "zh-hant",
+          "value": "\u7dad\u57fa\u5a92\u9ad4\u5206\u985e"
+        },
+        "gl": { "language": "gl", "value": "categor\u00eda de Wikimedia" },
+        "zh-cn": {
+          "language": "zh-cn",
+          "value": "\u7ef4\u57fa\u5a92\u4f53\u5206\u7c7b"
+        },
+        "bs": { "language": "bs", "value": "kategorija na Wikimediji" },
+        "hi": {
+          "language": "hi",
+          "value": "\u0935\u093f\u0915\u093f\u092e\u0940\u0921\u093f\u092f\u093e \u0936\u094d\u0930\u0947\u0923\u0940"
+        },
+        "bug": { "language": "bug", "value": "kategori Wikimedia" },
+        "sv": { "language": "sv", "value": "Wikimedia-kategori" },
+        "it": {
+          "language": "it",
+          "value": "categoria di un progetto Wikimedia"
+        },
+        "pl": { "language": "pl", "value": "kategoria w projekcie Wikimedia" },
+        "be": {
+          "language": "be",
+          "value": "\u043a\u0430\u0442\u044d\u0433\u043e\u0440\u044b\u044f \u045e \u043f\u0440\u0430\u0435\u043a\u0446\u0435 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u044b\u044f"
+        },
+        "ast": { "language": "ast", "value": "categor\u00eda de Wikimedia" },
+        "se": { "language": "se", "value": "Wikimedia-kategoriija" },
+        "yue": {
+          "language": "yue",
+          "value": "\u7dad\u57fa\u5a92\u9ad4\u5206\u985e"
+        },
+        "pt": {
+          "language": "pt",
+          "value": "categoria de um projeto da Wikimedia"
+        },
+        "zh-hk": {
+          "language": "zh-hk",
+          "value": "\u7dad\u57fa\u5a92\u9ad4\u5206\u985e"
+        },
+        "hr": { "language": "hr", "value": "kategorija na Wikimediji" },
+        "zh-tw": {
+          "language": "zh-tw",
+          "value": "\u7dad\u57fa\u5a92\u9ad4\u5206\u985e"
+        },
+        "mk": {
+          "language": "mk",
+          "value": "\u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0438\u043d\u0430 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0458\u0430"
+        },
+        "eu": { "language": "eu", "value": "Wikimediako kategoria" },
+        "gu": {
+          "language": "gu",
+          "value": "\u0ab5\u0abf\u0a95\u0abf\u0aaa\u0ac0\u0aa1\u0abf\u0aaf\u0abe \u0ab6\u0acd\u0ab0\u0ac7\u0aa3\u0ac0"
+        },
+        "uk": {
+          "language": "uk",
+          "value": "\u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u044f \u043f\u0440\u043e\u0454\u043a\u0442\u0443 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430"
+        },
+        "zh-hans": {
+          "language": "zh-hans",
+          "value": "\u7ef4\u57fa\u5a92\u4f53\u5206\u7c7b"
+        },
+        "cy": { "language": "cy", "value": "tudalen categori Wikimedia" },
+        "lv": { "language": "lv", "value": "Wikimedia projekta kategorija" },
+        "be-tarask": {
+          "language": "be-tarask",
+          "value": "\u043a\u0430\u0442\u044d\u0433\u043e\u0440\u044b\u044f \u045e \u043f\u0440\u0430\u0435\u043a\u0446\u0435 \u0412\u0456\u043a\u0456\u043c\u044d\u0434\u044b\u044f"
+        },
+        "zh": {
+          "language": "zh",
+          "value": "\u7ef4\u57fa\u5a92\u4f53\u5206\u7c7b"
+        },
+        "ky": {
+          "language": "ky",
+          "value": "Wikimedia \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f\u0441\u044b"
+        },
+        "sk": {
+          "language": "sk",
+          "value": "kateg\u00f3ria projektov Wikimedia"
+        },
+        "la": { "language": "la", "value": "categoria Vicimediorum" },
+        "tg-cyrl": {
+          "language": "tg-cyrl",
+          "value": "\u0433\u0443\u0440\u04ef\u04b3 \u0434\u0430\u0440 \u043b\u043e\u0438\u04b3\u0430\u0438 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430"
+        },
+        "zea": { "language": "zea", "value": "Wikimedia-categorie" },
+        "th": {
+          "language": "th",
+          "value": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e21\u0e27\u0e14\u0e2b\u0e21\u0e39\u0e48\u0e27\u0e34\u0e01\u0e34\u0e21\u0e35\u0e40\u0e14\u0e35\u0e22"
+        },
+        "en-ca": { "language": "en-ca", "value": "Wikimedia category" },
+        "rmy": { "language": "rmy", "value": "Vikipidiya:Shopni" },
+        "stq": { "language": "stq", "value": "Wikimedia-Kategorie" },
+        "min": { "language": "min", "value": "kategori Wikimedia" },
+        "fo": { "language": "fo", "value": "Wikimedia-b\u00f3lkur" },
+        "sh": { "language": "sh", "value": "Wikimedia:Kategorija" },
+        "sw": { "language": "sw", "value": "jamii ya Wikimedia" },
+        "sq": { "language": "sq", "value": "kategori e Wikimedias" },
+        "map-bms": { "language": "map-bms", "value": "kategori Wikimedia" },
+        "dty": {
+          "language": "dty",
+          "value": "\u0935\u093f\u0915\u093f\u092e\u093f\u0921\u093f\u092f\u093e \u0936\u094d\u0930\u0947\u0923\u0940"
+        },
+        "tg-latn": { "language": "tg-latn", "value": "gur\u00fchi Vikimedia" },
+        "tl": { "language": "tl", "value": "kategorya ng Wikimedia" },
+        "tt-latn": {
+          "language": "tt-latn",
+          "value": "Wikimedia proyekt\u0131nda\u011f\u0131 t\u00f6rkem"
+        },
+        "mr": {
+          "language": "mr",
+          "value": "\u0935\u093f\u0915\u093f\u092a\u0940\u0921\u093f\u092f\u093e \u0935\u0930\u094d\u0917"
+        },
+        "si": {
+          "language": "si",
+          "value": "\u0dc0\u0dd2\u0d9a\u0dd2\u0db8\u0dd3\u0da9\u0dd2\u0dba\u0dcf \u0db4\u0dca\u200d\u0dbb\u0db7\u0dda\u0daf \u0db4\u0dd2\u0da7\u0dd4\u0dc0"
+        },
+        "tt-cyrl": {
+          "language": "tt-cyrl",
+          "value": "\u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u044b\u043d\u0434\u0430\u0433\u044b \u0442\u04e9\u0440\u043a\u0435\u043c"
+        },
+        "gv": { "language": "gv", "value": "Wikimedia:Ronnaghys" },
+        "ga": { "language": "ga", "value": "Vicim\u00e9id catag\u00f3ir" },
+        "ka": {
+          "language": "ka",
+          "value": "\u10d5\u10d8\u10d9\u10d8\u10de\u10d4\u10d3\u10d8\u10d0:\u10d9\u10d0\u10e2\u10d4\u10d2\u10dd\u10e0\u10d8\u10d6\u10d0\u10ea\u10d8\u10d0"
+        },
+        "tt": {
+          "language": "tt",
+          "value": "\u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u044b\u043d\u0434\u0430\u0433\u044b \u0442\u04e9\u0440\u043a\u0435\u043c"
+        },
+        "ku": {
+          "language": "ku",
+          "value": "W\u00eek\u00eemediya:Kategor\u00ee"
+        },
+        "en-gb": { "language": "en-gb", "value": "Wikimedia category" },
+        "jv": { "language": "jv", "value": "kategori Wikimedia" },
+        "ta": {
+          "language": "ta",
+          "value": "\u0bb5\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bae\u0bc0\u0b9f\u0bbf\u0baf\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1"
+        },
+        "su": { "language": "su", "value": "kategori Wikim\u00e9dia" },
+        "li": { "language": "li", "value": "Wikimedia-categorie" },
+        "ms": { "language": "ms", "value": "kategori Wikimedia" },
+        "hsb": {
+          "language": "hsb",
+          "value": "kategorija w projektach Wikimedije"
+        },
+        "scn": {
+          "language": "scn",
+          "value": "catigur\u00eca di nu pruggettu Wikimedia"
+        },
+        "id": { "language": "id", "value": "kategori Wikimedia" },
+        "ne": {
+          "language": "ne",
+          "value": "\u0935\u093f\u0915\u093f\u092e\u093f\u0921\u093f\u092f\u093e \u0936\u094d\u0930\u0947\u0923\u0940"
+        },
+        "ps": {
+          "language": "ps",
+          "value": "\u062f \u0648\u064a\u06a9\u064a\u0645\u06d0\u0689\u064a\u0627 \u0648\u06d0\u0634\u0646\u064a\u0632\u0647"
+        },
+        "sd": {
+          "language": "sd",
+          "value": "\u0632\u0645\u0631\u0648:\u0648\u06aa\u064a\u067e\u064a\u068a\u064a\u0627 \u0632\u0645\u0631\u0627 \u0628\u0646\u062f\u064a"
+        },
+        "pam": { "language": "pam", "value": "Kategoriya ning Wikimedia" },
+        "arz": {
+          "language": "arz",
+          "value": "\u062a\u0635\u0646\u064a\u0641 \u0628\u062a\u0627\u0639 \u0648\u064a\u0643\u064a\u0645\u064a\u062f\u064a\u0627"
+        },
+        "gn": { "language": "gn", "value": "Vikim\u00e9dia \u00f1emohenda" },
+        "kw": { "language": "kw", "value": "Wikimedia:Klassys" },
+        "ia": { "language": "ia", "value": "categoria Wikimedia" },
+        "yo": { "language": "yo", "value": "\u1eb9\u0300ka Wikimedia" },
+        "ur": {
+          "language": "ur",
+          "value": "\u0648\u06cc\u06a9\u06cc\u0645\u06cc\u0688\u06cc\u0627 \u0632\u0645\u0631\u06c1"
+        },
+        "nds-nl": { "language": "nds-nl", "value": "Wikimedia-kategorie" },
+        "my": {
+          "language": "my",
+          "value": "Wikimedia:\u1000\u100f\u1039\u100d\u1001\u103d\u1032\u1001\u103c\u1004\u103a\u1038"
+        },
+        "ml": {
+          "language": "ml",
+          "value": "\u0d35\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d2e\u0d40\u0d21\u0d3f\u0d2f \u0d35\u0d7c\u0d17\u0d4d\u0d17\u0d02"
+        },
+        "mn": {
+          "language": "mn",
+          "value": "\u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f\u0434 \u0410\u043d\u0433\u0438\u043b\u0430\u043b"
+        }
+      },
+      "aliases": {
+        "es": [
+          { "language": "es", "value": "Diario El Marino" },
+          { "language": "es", "value": "El Marino de Pichilemu" }
+        ],
+        "en": [
+          { "language": "en", "value": "El Marino de Pichilemu" },
+          { "language": "en", "value": "diarioelmarino.cl" },
+          { "language": "en", "value": "Category:El Marino (2013)" }
+        ]
+      },
+      "claims": {
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "4b643c4d955c26115a10a4c478cd1bbc9daddf43",
+              "datavalue": { "value": "El Marino (2013)", "type": "string" },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q18445392$2cfa80df-4ba0-2057-95d6-291af2a1a176",
+            "rank": "normal"
+          }
+        ],
+        "P291": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P291",
+              "hash": "99030ab630de4fc6e3f3b5c04f8c884a2872314f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 25304,
+                  "id": "Q25304"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q18445392$14226ae6-4a66-da8a-a7c5-bf95b1dc968f",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "98d02fc3866bb5db0f8e4567132ba42aa6bb32b5",
+              "datavalue": {
+                "value": {
+                  "time": "+2013-04-30T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q18445392$d4c91191-4c62-ec9c-68c6-4bfb22da9372",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "5d6d7a54d3fb2b9eea711a6b8520dce70a4a61f9",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "9b6e7aceaee8b022a4746db0655281afc9d7494a",
+                      "datavalue": {
+                        "value": "http://www.diarioelmarino.cl/quienes-somos/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P854"]
+              }
+            ]
+          }
+        ],
+        "P98": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P98",
+              "hash": "2056e71e4e49d23a04d35f5106bb7b7d3c82d5d4",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15304738,
+                  "id": "Q15304738"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "b9fda2abec3c3b12e8b1a47920e2a521fe07fa81",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-04-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": ["P580"],
+            "id": "Q18445392$98fc701e-4388-493b-6690-d3b3dfbc7ecd",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "5d6d7a54d3fb2b9eea711a6b8520dce70a4a61f9",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "9b6e7aceaee8b022a4746db0655281afc9d7494a",
+                      "datavalue": {
+                        "value": "http://www.diarioelmarino.cl/quienes-somos/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": ["P854"]
+              }
+            ]
+          }
+        ],
+        "P236": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P236",
+              "hash": "31be80c0282eff794ca80e5d9c11618f99f83e0f",
+              "datavalue": { "value": "0719-6067", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q18445392$28fcb056-41fa-fc08-1e13-0fb7781012b4",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "6d3b7007e3779c19bbdd6e6d8c8d0cf4d1adf43f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1153191,
+                  "id": "Q1153191"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q18445392$8831410a-490d-18c2-0007-83e88a08e3c0",
+            "rank": "normal"
+          }
+        ],
+        "P1476": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1476",
+              "hash": "5bd95e81f0917d1158d1af4b9ef63d933da7c178",
+              "datavalue": {
+                "value": { "text": "El Marino", "language": "es" },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q18445392$5f59f3da-48ef-72ab-8690-73ce70e109d1",
+            "rank": "normal"
+          }
+        ],
+        "P495": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P495",
+              "hash": "55d9cfc291850315360f4bb02aaf05781cdf330b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 298,
+                  "id": "Q298"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q18445392$2cea2990-46d7-f8c9-3099-dc907308e42e",
+            "rank": "normal"
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "2a906d5447709544c1e132713f80de231a03bdab",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 25304,
+                  "id": "Q25304"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P625": [
+                {
+                  "snaktype": "value",
+                  "property": "P625",
+                  "hash": "ea8bb154490e597df0766611d24690d28ba7dfe9",
+                  "datavalue": {
+                    "value": {
+                      "latitude": -34.39658,
+                      "longitude": -72.00625,
+                      "altitude": null,
+                      "precision": 1.0e-6,
+                      "globe": "http://www.wikidata.org/entity/Q2"
+                    },
+                    "type": "globecoordinate"
+                  },
+                  "datatype": "globe-coordinate"
+                }
+              ],
+              "P6375": [
+                {
+                  "snaktype": "value",
+                  "property": "P6375",
+                  "hash": "eaafa40a0d56637c95c0bd891a6b6e890308dc95",
+                  "datavalue": {
+                    "value": {
+                      "text": "Sebasti\u00e1n Elcano 1133, 3220478 Pichilemu",
+                      "language": "es"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ]
+            },
+            "qualifiers-order": ["P625", "P6375"],
+            "id": "Q18445392$043cea72-4b9f-a862-19e0-9d9debef477c",
+            "rank": "normal"
+          }
+        ],
+        "P112": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P112",
+              "hash": "b3a5af41dbfe2ddeed5becc74e82f415cbb9a273",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 15304738,
+                  "id": "Q15304738"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q18445392$48aca09a-4aee-d0e8-08ca-9cada3ea34c9",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "afc2b5aff28646cf0f06dc4af344f14a94916d0c",
+              "datavalue": {
+                "value": "El Marino logo (2015).svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q18445392$a0fa7cbf-4c86-c24f-bcdf-723d31160832",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "596093cea00fbffb8de342b371c7d5ac42a6a1da",
+              "datavalue": {
+                "value": "El Marino logo (2017).png",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "154b581c43d72b52e77b5c1e92455e4eafe99a97",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2017-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "1ab4607250ac7a0c1a2f1b93c25e4bff9e147330",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": ["P580", "P582"],
+            "id": "Q18445392$300e6839-497a-12a8-90a3-1c79a41ac70e",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "65eeb7bce85ef88ef4adcabedcfa5916b2967703",
+              "datavalue": {
+                "value": "http://www.diarioelmarino.cl",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "ffe70325d10cfc55f0dca807ed80ca0b5b97c472",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1321,
+                      "id": "Q1321"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": ["P407"],
+            "id": "Q18445392$4d207f47-4045-3a3d-bf68-1c0599025194",
+            "rank": "normal"
+          }
+        ],
+        "P1365": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1365",
+              "hash": "b9fd64f90e8af011bdb53632b5b4d70216fd8a83",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16738068,
+                  "id": "Q16738068"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q18445392$088eb7a0-46e3-70c2-ee17-3fab2d2a4203",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1365",
+              "hash": "85551511a391479a3a2bc03059a9158a9fe54a06",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 19900255,
+                  "id": "Q19900255"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q18445392$d6e9a665-4a02-d27a-d65e-1be222d1bc4c",
+            "rank": "normal"
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "032c3e7504046847ca38397ade55d964d168f6bc",
+              "datavalue": { "value": "diarioelmarino", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P3744": [
+                {
+                  "snaktype": "value",
+                  "property": "P3744",
+                  "hash": "20a02e58a49f00d7c4e8ab3df1f99bd516b8469a",
+                  "datavalue": {
+                    "value": { "amount": "+2817", "unit": "1" },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P6552": [
+                {
+                  "snaktype": "value",
+                  "property": "P6552",
+                  "hash": "f9f59191a9d1a5f9d237ab9866ed0a9c15dc908a",
+                  "datavalue": { "value": "258426850", "type": "string" },
+                  "datatype": "external-id"
+                }
+              ],
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "aa87160aafb6ba0cde9c8b29eac2881cf083cd40",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2011-02-27T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "a0530210bbfb3618d85333162c9bd30d6e7e3e36",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-04-19T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": ["P3744", "P6552", "P580", "P585"],
+            "id": "Q18445392$0C685AE0-5F9D-4A3B-ABA2-E2711C9516BE",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "830e0d3d65e6b91e769889d7d1177706b5c1e0ca",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "cd8210fc3215a6112ebad72d11663d1a56b14d67",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-05-10T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": ["P813"]
+              }
+            ]
+          }
+        ],
+        "P2013": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2013",
+              "hash": "e1899b78d10782a236a9fb515c9545076ec6fcee",
+              "datavalue": { "value": "diarioelmarino", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q18445392$80FB134A-6571-4205-8E3B-A2B7DF697807",
+            "rank": "normal"
+          }
+        ],
+        "P1612": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1612",
+              "hash": "af3a75b6047c220c157b2b43315282868c4f3b0a",
+              "datavalue": { "value": "El Marino", "type": "string" },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q18445392$33c7b33c-4dc7-f576-dc7a-2c6604fe07ae",
+            "rank": "normal"
+          }
+        ],
+        "P2397": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2397",
+              "hash": "9806ec23d649130607cfcfc347a71ecb5f128d5a",
+              "datavalue": {
+                "value": "UCTs5x4Qdfy_cw5hp9KqBQbw",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "99c232ac0f83b3feab8fd06c6bf584fe981d1d51",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2014-10-04T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "5da0272e0cfde5db56780d8fb553495d66f3e692",
+                  "datavalue": { "value": "El Marino", "type": "string" },
+                  "datatype": "string"
+                }
+              ],
+              "P3744": [
+                {
+                  "snaktype": "value",
+                  "property": "P3744",
+                  "hash": "b8f2f94b66b64e2b6f1272c80f22be5ea4b8fb41",
+                  "datavalue": {
+                    "value": { "amount": "+307", "unit": "1" },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P3740": [
+                {
+                  "snaktype": "value",
+                  "property": "P3740",
+                  "hash": "a905df76b484ea3d0c48126d6033ea2fcf292a7e",
+                  "datavalue": {
+                    "value": { "amount": "+161", "unit": "1" },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P5436": [
+                {
+                  "snaktype": "value",
+                  "property": "P5436",
+                  "hash": "25bfc8c9bdc9c5b0fa9f91ed6447cb8972a14d91",
+                  "datavalue": {
+                    "value": { "amount": "+142453", "unit": "1" },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "2808ea324838815f16609d96542691ce7521718f",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-06-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P1810",
+              "P3744",
+              "P3740",
+              "P5436",
+              "P585"
+            ],
+            "id": "Q18445392$A841632F-3A20-4E52-A1EC-76935CCE060C",
+            "rank": "normal"
+          }
+        ],
+        "P407": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P407",
+              "hash": "ffe70325d10cfc55f0dca807ed80ca0b5b97c472",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1321,
+                  "id": "Q1321"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q18445392$E59B4920-6F45-4A3F-8E80-0F43068E7952",
+            "rank": "normal"
+          }
+        ],
+        "P1451": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1451",
+              "hash": "49dbfb96cc35056719df5963089a372d4343106d",
+              "datavalue": {
+                "value": {
+                  "text": "Con Colchagua y Cardenal Caro en el coraz\u00f3n",
+                  "language": "es"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q18445392$ecd2f0a4-4858-bb93-4ece-5006dba00cc6",
+            "rank": "normal"
+          }
+        ],
+        "P3912": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3912",
+              "hash": "be3bee6620464c2dc199be220de7ca010c89507d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1153191,
+                  "id": "Q1153191"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q18445392$bdb25a96-4583-ebd5-086b-cd6a894d4838",
+            "rank": "normal"
+          }
+        ],
+        "P2896": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2896",
+              "hash": "1ec5657142ff086810408bf6e6bd615492c57aed",
+              "datavalue": {
+                "value": {
+                  "amount": "+1",
+                  "unit": "http://www.wikidata.org/entity/Q573"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "id": "Q18445392$342bc3dc-4b4e-709d-e64f-435970dd3b25",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "bf0a6e50d3ad6939c18b952dae370b7d749c9862",
+              "datavalue": {
+                "value": "Sede del diario El Marino de Pichilemu.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q18445392$e32fd335-40cd-78a1-45b7-03440461f91d",
+            "rank": "normal"
+          }
+        ],
+        "P6750": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6750",
+              "hash": "49dcf383cbd94a53b12e6f4604ffb1b1c6d8ef37",
+              "datavalue": { "value": "el-marino", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q18445392$937b27b5-4474-06f2-b2ad-89b687711411",
+            "rank": "normal"
+          }
+        ],
+        "P1966": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1966",
+              "hash": "eed016dc3329948ffc1da0ff605d3e0a64ca95ee",
+              "datavalue": { "value": "001100861", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q18445392$53a6d17f-47bc-790d-576f-acd87d6e8d81",
+            "rank": "normal"
+          }
+        ],
+        "P10691": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P10691",
+              "hash": "e6d7a38fde0f468d14e9ab1b88cf9cafeebdac60",
+              "datavalue": { "value": "El_Marino", "type": "string" },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q18445392$34c4cd14-4137-ac25-fe22-8538da507b17",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:El Marino (2013)",
+          "badges": [],
+          "url": "https://commons.wikimedia.org/wiki/Category:El_Marino_(2013)"
+        }
+      }
+    }
+  }
+}
